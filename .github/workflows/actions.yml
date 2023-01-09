@@ -32,7 +32,7 @@ jobs:
           git config --local user.email "gregory.weegenaar@tdrcapital.com"
           git config --local user.name "tdrgregw"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "automated refresh" --allow-empty)
           
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
