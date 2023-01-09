@@ -67,7 +67,7 @@ def transform_feed():
         fe = fg.add_entry()
         
         fe.title(row.Title)
-        fe.description(row.Date)
+        fe.description(row.Description)
         fe.link(href=str(row.Link))
         
         fe.guid(row.GUID, permalink=False)
@@ -80,5 +80,5 @@ def transform_feed():
 
 def load_feed():
     XML = transform_feed()
-    with open('misc/rss/UK_economy_rss.xml', 'w') as f:
+    with open('misc/rss/UK_economy_rss.xml', 'w', encoding = 'utf-8') as f:
         f.write(XML)
