@@ -76,6 +76,7 @@ def transform_feed():
 
     XML = fg.rss_str()
     XML = XML.decode("utf-8")
+    print(XML)
     return XML
 
 def load_feed():
