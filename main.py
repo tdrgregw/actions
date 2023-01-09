@@ -1,14 +1,11 @@
-from helpers import *
-import requests
+from help_rss import *
+from help_utils import *
 
 logger = init_logging()
-check_tokens()
 
 if __name__ == "__main__":
-    # logger.info(f"Token value: {SOME_SECRET}")
-
-    r = requests.get('https://weather.talkpython.fm/api/weather/?city=Berlin&country=DE')
-    if r.status_code == 200:
-        data = r.json()
-        temperature = data["forecast"]["temp"]
-        logger.info(f'Weather in Berlin: {temperature}')
+    SOME_SECRET = check_tokens()
+    logger.info(f"Token value: {SOME_SECRET}")
+    
+    load_feed()
+    logger.info('RSS feed updated: {0}'.format('UK Economy RSS'))

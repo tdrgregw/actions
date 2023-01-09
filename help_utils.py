@@ -21,3 +21,4 @@ def check_tokens():
         SOME_SECRET = os.environ["SOME_SECRET"]
     except KeyError:
         SOME_SECRET = "Token not available!"
+    return SOME_SECRET
