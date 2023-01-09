@@ -13,9 +13,9 @@ This example shows how to run a Python script as cron job with GitHub Actions. I
 
 > Venv shortcuts
 - Create environment `python -m venv venv`
-- Activate environment `venv\Scripts\activate.bat`
-- Install from file `pip install -r misc\requirements\requirements_GW.txt`  
-- Freeze to file `pip freeze -> misc\requirements\requirements_GW.txt`
+- Activate environment `venv\Scripts\activate`
+- Install from file `pip install -r requirements.txt`  
+- Freeze to file `pip freeze -> requirements.txt`
 - Deactivate `exit`
 
 > Tutorial: https://www.youtube.com/watch?v=PaGp7Vi5gfM
