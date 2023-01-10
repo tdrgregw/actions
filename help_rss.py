@@ -10,6 +10,9 @@ from feedgen.feed import FeedGenerator
 from flask import Flask, make_response
 from datetime import date, datetime, timezone
 
+from xml.dom import minidom
+import xml.etree.ElementTree as ET
+
 def extract_date():
     dt = datetime.now()
     dt = dt.replace(tzinfo=timezone.utc)
@@ -78,7 +81,16 @@ def transform_feed():
     XML = XML.decode("utf-8")
     return XML
 
+def transform_xml(XML):
+    TREE = ET.ElementTree(ET.fromstring(XML))
+    ROOT = TREE.getroot()
+    XMLO = minidom.parseString(ET.tostring(ROOT)).toprettyxml(indent="   ")
+    return XMLO
+
 def load_feed():
-    XML = transform_feed()
+    XMLR = transform_feed()
+    XMLO = transform_xml(XMLR)
     with open('misc/rss/UK_economy_rss.xml', 'w', encoding = 'utf-8') as f:
-        f.write(XML)
+        f.write(XMLO)
+
+    
