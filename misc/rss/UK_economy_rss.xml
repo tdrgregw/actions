@@ -1,5 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>UK Economy RSS</title><link>https://github.com/tdrgregw/sandbox_actions/blob/main/misc/rss/test_rss.xml</link><description>RSS feed capturing updates to the ONS UK Economy blog</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Tue, 10 Jan 2023 09:17:24 +0000</lastBuildDate><item><title>November borrowing highest on record</title><link>https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/latest</link><description>
+<?xml version="1.0" ?>
+<rss version="2.0">
+   <channel>
+      <title>UK Economy RSS</title>
+      <link>https://github.com/tdrgregw/sandbox_actions/blob/main/misc/rss/test_rss.xml</link>
+      <description>RSS feed capturing updates to the ONS UK Economy blog</description>
+      <docs>http://www.rssboard.org/rss-specification</docs>
+      <generator>python-feedgen</generator>
+      <lastBuildDate>Wed, 11 Jan 2023 09:19:50 +0000</lastBuildDate>
+      <item>
+         <title>November borrowing highest on record</title>
+         <link>https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/latest</link>
+         <description>
 
 November borrowing highest on record21 December 2022In November 2022, the public sector spent more than it received in taxes and other income, requiring it to borrow £22.0 billion, the highest November borrowing on record. The additional costs of the government’s energy support schemes, an increase in cost of living payments and the continued rise in debt interest have all contributed to the increased borrowing. The additional £22.0 billion borrowed in November 2022 was partially offset by a reduction of £1.1 billion to our previously published financial year to October borrowing estimate. This brings the total borrowed in the financial year to November 2022 to £105.4 billion, £7.6 billion less than in the same period last year. The substantial increase in borrowing during the coronavirus (COVID-19) pandemic has led to a sharp increase in the total amount owed to private sector organisations (including overseas institutions). Debt at the end of November was £2.5 trillion (£2,477.5 billion) or 98.7% of the UK’s annual gross domestic product (GDP). 
 
@@ -7,7 +18,15 @@ Read our full bulletin on  UK public sector finances
 🠕 Back to the top 
 
 
-</description><author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author><guid isPermaLink="false">28469094</guid><pubDate>Tue, 10 Jan 2023 09:17:24 +0000</pubDate></item><item><title>Drops in job adverts and retail footfall </title><link>https://www.ons.gov.uk/economy/economicoutputandproductivity/output/bulletins/economicactivityandsocialchangeintheukrealtimeindicators/latest</link><description>
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">28469094</guid>
+         <pubDate>Wed, 11 Jan 2023 09:19:50 +0000</pubDate>
+      </item>
+      <item>
+         <title>Drops in job adverts and retail footfall </title>
+         <link>https://www.ons.gov.uk/economy/economicoutputandproductivity/output/bulletins/economicactivityandsocialchangeintheukrealtimeindicators/latest</link>
+         <description>
 
 Drops in job adverts and retail footfall 21 December 2022Online job adverts continued to fall in December in further signs that demand for labour may be softening. The total number of online job adverts on 16 December 2022 was 5% down from the previous week and 16% lower than the level seen a year earlier, according to data collected by job site Adzuna. The number of adverts has continued to fall since reaching a high in mid-February 2022. Separate figures from data analytics firm Springboard show overall retail footfall dropped in the week to 18 December 2022 to 94% of the level seen in the previous week, and 77% of the level reported in 2019. Footfall in high streets saw the largest week-on-week decrease, falling to 88% of the level recorded in previous week. 
 
@@ -15,7 +34,15 @@ Read our full bulletin on Economic activity and social change in the UK
 🠕 Back to the top 
 
 
-</description><author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author><guid isPermaLink="false">15031977</guid><pubDate>Tue, 10 Jan 2023 09:17:24 +0000</pubDate></item><item><title>Business investment lower than previously estimated </title><link>https://www.ons.gov.uk/releases/businessinvestmentintheukjulytoseptember2022revisedresults</link><description>
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">15031977</guid>
+         <pubDate>Wed, 11 Jan 2023 09:19:50 +0000</pubDate>
+      </item>
+      <item>
+         <title>Business investment lower than previously estimated </title>
+         <link>https://www.ons.gov.uk/releases/businessinvestmentintheukjulytoseptember2022revisedresults</link>
+         <description>
 
 Business investment lower than previously estimated 22 December 2022Business investment in the UK fell by 2.5% in Quarter 3 (July to Sept) 2022. This figure has been revised down from the provisional estimate of a 0.5% fall. Whole economy investment (technically known as gross fixed capital formation (GFCF)), which includes business and public sector investment, grew by 1.1%. Although this is lower than the provisional estimate of 2.5%, overall investment in this area and the majority of its components remain above pre-coronavirus (COVID-19) pandemic levels. In Quarter 3 2022, whole economy investment was 0.2% above its pre-coronavirus pandemic level and 3.7% above Quarter 3 2021. Positive growth in residential property has been the main factor in whole economy investment returning to pre-pandemic levels. In Quarter 3 2022, growth in this sector remained positive, at 1.0%. Although this revised figure is slower than the provisional estimate of 4.2%, it is 12.4% above pre-pandemic levels. Whole economy investment in non-residential buildings and structures like roads, bridges and energy-related structures is now 8.3% below its pre-coronavirus pandemic level. 
 
@@ -23,7 +50,15 @@ Read our full bulletin about  business investment in the UK.
 🠕 Back to the top 
 
 
-</description><author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author><guid isPermaLink="false">53823278</guid><pubDate>Tue, 10 Jan 2023 09:17:24 +0000</pubDate></item><item><title>Rising food prices leave most vulnerable worst off </title><link>https://www.ons.gov.uk/releases/risingfoodpricesandtheimpactonconsumers</link><description>
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">53823278</guid>
+         <pubDate>Wed, 11 Jan 2023 09:19:50 +0000</pubDate>
+      </item>
+      <item>
+         <title>Rising food prices leave most vulnerable worst off </title>
+         <link>https://www.ons.gov.uk/releases/risingfoodpricesandtheimpactonconsumers</link>
+         <description>
 
 Rising food prices leave most vulnerable worst off 22 December 2022The rising cost of supermarket staples is hitting low-income families the hardest, while households in the most-deprived areas are more likely to be buying less food. The price of food and non-alcoholic drink rose by 16.5% in the 12 months to November 2022, which was the largest increase for 45 years according to our UK Consumer Price Inflation data. Bread and cereals had the largest upward effect on the annual inflation rate in November compared with October. 
 
@@ -54,7 +89,15 @@ Read our full article here: Rising food prices leave most vulnerable worst off
 🠕 Back to the top
 
 
-</description><author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author><guid isPermaLink="false">63305212</guid><pubDate>Tue, 10 Jan 2023 09:17:24 +0000</pubDate></item><item><title>The majority of adults planning to cut spending over Christmas </title><link>https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest</link><description>
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">63305212</guid>
+         <pubDate>Wed, 11 Jan 2023 09:19:50 +0000</pubDate>
+      </item>
+      <item>
+         <title>The majority of adults planning to cut spending over Christmas </title>
+         <link>https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest</link>
+         <description>
 
 The majority of adults planning to cut spending over Christmas 23 December 2022Around 6 in 10 (60%) adults in the UK said they were planning to cut back on their spending this Christmas season compared with last year. Of those who were planning to reduce their spending, nearly 8 in 10 (79%) said they planned to reduce their spending by buying fewer presents. Nearly three-quarters (73%) intended to buy less expensive presents. Other frequently reported plans for cutting costs included buying cheaper food and drink (62%), eating out less (58%), and buying less food and drink (56%). 
 
@@ -91,7 +134,15 @@ Read our full bulletin about Public opinions and social trends
 🠕 Back to the top 
 
 
-</description><author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author><guid isPermaLink="false">652117</guid><pubDate>Tue, 10 Jan 2023 09:17:24 +0000</pubDate></item><item><title>Post-Christmas retail activity rose compared with 2021 </title><link>https://www.ons.gov.uk/releases/economicactivityandsocialchangeintheukrealtimeindicators6january2023</link><description>
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">652117</guid>
+         <pubDate>Wed, 11 Jan 2023 09:19:50 +0000</pubDate>
+      </item>
+      <item>
+         <title>Post-Christmas retail activity rose compared with 2021 </title>
+         <link>https://www.ons.gov.uk/releases/economicactivityandsocialchangeintheukrealtimeindicators6january2023</link>
+         <description>
 
 Post-Christmas retail activity rose compared with 2021 06 January 2023Retail activity fell across the UK after Christmas but was still well above the levels seen a year earlier, with Wales seeing the largest rise. Overall retail footfall in the week to 1 January 2023 fell to 84% of the level of the previous week, according to figures collected by data firm Springboard. The drop followed the busy Christmas shopping period and was in line with expected seasonal trends. Footfall in shopping centres saw the biggest decrease, at 80% of the level of the previous week. However, the level of activity was above that recorded in the same period a year earlier across all nine English regions and the three other UK nations. Wales saw the largest increase, at 121% of the level of the previous year. This coincided with national coronavirus (COVID-19) restrictions. 
 
@@ -99,7 +150,15 @@ Read our full bulletin on Economic activity and social change in the UK
 🠕 Back to the top
 
 
-</description><author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author><guid isPermaLink="false">34695735</guid><pubDate>Tue, 10 Jan 2023 09:17:24 +0000</pubDate></item><item><title>Cost of future fixed-rate mortgages could increase </title><link>/generator?uri=/economy/economicoutputandproductivity/output/articles/ukeconomylatest/2021-01-25/e4dcacc8&amp;format=xls</link><description>
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">34695735</guid>
+         <pubDate>Wed, 11 Jan 2023 09:19:50 +0000</pubDate>
+      </item>
+      <item>
+         <title>Cost of future fixed-rate mortgages could increase </title>
+         <link>/generator?uri=/economy/economicoutputandproductivity/output/articles/ukeconomylatest/2021-01-25/e4dcacc8&amp;format=xls</link>
+         <description>
 
 Cost of future fixed-rate mortgages could increase 9 January 2023More than 1.4 million households in the UK are facing the prospect of interest rate rises when they renew their fixed rate mortgages in 2023. Most fixed rate mortgages in the UK (57%) coming up for renewal in 2023 were fixed at interest rates below 2%. Those trying to secure a new fixed-rate deal may have to do it at a higher rate of interest. The effective interest rate on outstanding mortgages with a fixed rate was 2.08% in November 2022, according to the Bank of England (BoE). Should the interest rate on a £100,000 mortgage increase from 2% to 6%, assuming a 25-year capital and repayment mortgage, then the monthly mortgage repayment on the same mortgage would increase by £220 (from £424 to £644). However, assuming the same increase on a £300,000 mortgage, monthly repayments would rise by £661 (from £1,272 to £1,933). The BoE's Financial Stability Report - December 2022, suggests that mortgagors on fixed rates set to expire by the end of 2023 are facing monthly repayment increases of around £250 upon refinancing to a new fixed rate. 
 
@@ -134,4 +193,10 @@ Read our full article on how increases in mortgage costs impact households
 
 
 
-</description><author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author><guid isPermaLink="false">22547912</guid><pubDate>Tue, 10 Jan 2023 09:17:24 +0000</pubDate></item></channel></rss>
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">22547912</guid>
+         <pubDate>Wed, 11 Jan 2023 09:19:50 +0000</pubDate>
+      </item>
+   </channel>
+</rss>
