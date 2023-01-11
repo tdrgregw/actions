@@ -14,12 +14,14 @@ from xml.dom import minidom
 import xml.etree.ElementTree as ET
 
 def extract_date():
+    """  Docstring """
     dt = datetime.now()
     dt = dt.replace(tzinfo=timezone.utc)
     dt = dt.strftime("%a, %d %b %Y %H:%M:%S %z")
     return dt
 
 def extract_blog():
+    """  Docstring """
     URLO = "https://www.ons.gov.uk/economy/economicoutputandproductivity/output/articles/ukeconomylatest/2021-01-25"
     
     CLS = ['Date','Title','Link','Description','GUID']
@@ -59,6 +61,7 @@ def extract_blog():
     return DFO
 
 def transform_feed():
+    """  Docstring """
     fg = FeedGenerator()
     fg.title('UK Economy RSS')
     fg.description('RSS feed capturing updates to the ONS UK Economy blog')
@@ -82,12 +85,14 @@ def transform_feed():
     return XML
 
 def transform_xml(XML):
+    """  Docstring """
     TREE = ET.ElementTree(ET.fromstring(XML))
     ROOT = TREE.getroot()
     XMLO = minidom.parseString(ET.tostring(ROOT)).toprettyxml(indent="   ")
     return XMLO
 
 def load_feed():
+    """  Docstring """
     XMLR = transform_feed()
     XMLO = transform_xml(XMLR)
     with open('misc/rss/UK_economy_rss.xml', 'w', encoding = 'utf-8') as f:

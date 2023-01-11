@@ -1,8 +1,11 @@
+"""Module providing environment variables."""
 import os
+
 import logging
 import logging.handlers
 
 def init_logging():
+    """  Docstring """
     logger = logging.getLogger(__name__)
     logger.setLevel(logging.DEBUG)
     logger_file_handler = logging.handlers.RotatingFileHandler(
@@ -17,8 +20,9 @@ def init_logging():
     return logger
 
 def check_tokens():
+    """  Docstring """
     try:
-        SOME_SECRET = os.environ["SOME_SECRET"]
+        _snake_case = os.environ["SOME_SECRET"]
     except KeyError:
-        SOME_SECRET = "Token not available!"
-    return SOME_SECRET
+        _snake_case = "Token not available!"
+    return _snake_case

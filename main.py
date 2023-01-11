@@ -4,8 +4,7 @@ from help_utils import *
 logger = init_logging()
 
 if __name__ == "__main__":
-    SOME_SECRET = check_tokens()
-    logger.info(f"Token value: {SOME_SECRET}")
-    
+    _snake_case = check_tokens()
+    logger.info("Token value: %s", _snake_case)
     load_feed()
-    logger.info('RSS feed updated: {0}'.format('UK Economy RSS'))
+    logger.info('RSS feed updated UK Economy RSS')
