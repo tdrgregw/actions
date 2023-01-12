@@ -6,7 +6,7 @@
       <description>RSS feed capturing updates to the ONS UK Economy blog</description>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>python-feedgen</generator>
-      <lastBuildDate>Thu, 12 Jan 2023 10:08:40 +0000</lastBuildDate>
+      <lastBuildDate>Thu, 12 Jan 2023 11:08:48 +0000</lastBuildDate>
       <item>
          <title>Rising food prices leave most vulnerable worst off </title>
          <link>https://www.ons.gov.uk/releases/risingfoodpricesandtheimpactonconsumers</link>
@@ -44,7 +44,7 @@ Read our full article here: Rising food prices leave most vulnerable worst off
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">63305212</guid>
-         <pubDate>Thu, 12 Jan 2023 10:08:40 +0000</pubDate>
+         <pubDate>Thu, 12 Jan 2023 11:08:48 +0000</pubDate>
       </item>
       <item>
          <title>Post-Christmas retail activity rose compared with 2021 </title>
@@ -60,7 +60,7 @@ Read our full bulletin on Economic activity and social change in the UK
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">34695735</guid>
-         <pubDate>Thu, 12 Jan 2023 10:08:40 +0000</pubDate>
+         <pubDate>Thu, 12 Jan 2023 11:08:48 +0000</pubDate>
       </item>
       <item>
          <title>Cost of future fixed-rate mortgages could increase </title>
@@ -103,7 +103,7 @@ Read our full article on how increases in mortgage costs impact households
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">22547912</guid>
-         <pubDate>Thu, 12 Jan 2023 10:08:40 +0000</pubDate>
+         <pubDate>Thu, 12 Jan 2023 11:08:48 +0000</pubDate>
       </item>
       <item>
          <title>UK labour productivity 10% lower than other G7 nations in 2021 </title>
@@ -142,7 +142,7 @@ Read our full bulletin on international comparisons of UK productivity for 2021
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">64366364</guid>
-         <pubDate>Thu, 12 Jan 2023 10:08:40 +0000</pubDate>
+         <pubDate>Thu, 12 Jan 2023 11:08:48 +0000</pubDate>
       </item>
       <item>
          <title>Debit card spending falls, in line with seasonal patterns </title>
@@ -158,7 +158,7 @@ Read our bulletin on Economic activity and social change in the UK, real-time in
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">51686287</guid>
-         <pubDate>Thu, 12 Jan 2023 10:08:40 +0000</pubDate>
+         <pubDate>Thu, 12 Jan 2023 11:08:48 +0000</pubDate>
       </item>
    </channel>
 </rss>
