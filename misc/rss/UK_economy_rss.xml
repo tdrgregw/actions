@@ -6,7 +6,7 @@
       <description>RSS feed capturing updates to the ONS UK Economy blog</description>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>python-feedgen</generator>
-      <lastBuildDate>Thu, 12 Jan 2023 04:08:22 +0000</lastBuildDate>
+      <lastBuildDate>Thu, 12 Jan 2023 05:06:39 +0000</lastBuildDate>
       <item>
          <title>Business investment lower than previously estimated </title>
          <link>https://www.ons.gov.uk/releases/businessinvestmentintheukjulytoseptember2022revisedresults</link>
@@ -21,7 +21,7 @@ Read our full bulletin about  business investment in the UK.
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">53823278</guid>
-         <pubDate>Thu, 12 Jan 2023 04:08:22 +0000</pubDate>
+         <pubDate>Thu, 12 Jan 2023 05:06:39 +0000</pubDate>
       </item>
       <item>
          <title>Rising food prices leave most vulnerable worst off </title>
@@ -60,7 +60,7 @@ Read our full article here: Rising food prices leave most vulnerable worst off
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">63305212</guid>
-         <pubDate>Thu, 12 Jan 2023 04:08:22 +0000</pubDate>
+         <pubDate>Thu, 12 Jan 2023 05:06:39 +0000</pubDate>
       </item>
       <item>
          <title>Post-Christmas retail activity rose compared with 2021 </title>
@@ -76,7 +76,7 @@ Read our full bulletin on Economic activity and social change in the UK
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">34695735</guid>
-         <pubDate>Thu, 12 Jan 2023 04:08:22 +0000</pubDate>
+         <pubDate>Thu, 12 Jan 2023 05:06:39 +0000</pubDate>
       </item>
       <item>
          <title>Cost of future fixed-rate mortgages could increase </title>
@@ -119,7 +119,7 @@ Read our full article on how increases in mortgage costs impact households
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">22547912</guid>
-         <pubDate>Thu, 12 Jan 2023 04:08:22 +0000</pubDate>
+         <pubDate>Thu, 12 Jan 2023 05:06:39 +0000</pubDate>
       </item>
       <item>
          <title>UK labour productivity 10% lower than other G7 nations in 2021 </title>
@@ -158,7 +158,7 @@ Read our full bulletin on international comparisons of UK productivity for 2021
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">64366364</guid>
-         <pubDate>Thu, 12 Jan 2023 04:08:22 +0000</pubDate>
+         <pubDate>Thu, 12 Jan 2023 05:06:39 +0000</pubDate>
       </item>
    </channel>
 </rss>
