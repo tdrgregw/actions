@@ -6,7 +6,7 @@
       <description>RSS feed capturing updates to the ONS UK Economy blog</description>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>python-feedgen</generator>
-      <lastBuildDate>Fri, 13 Jan 2023 09:10:31 +0000</lastBuildDate>
+      <lastBuildDate>Fri, 13 Jan 2023 21:07:42 +0000</lastBuildDate>
       <item>
          <title>Rising food prices leave most vulnerable worst off </title>
          <link>https://www.ons.gov.uk/releases/risingfoodpricesandtheimpactonconsumers</link>
@@ -44,7 +44,7 @@ Read our full article here: Rising food prices leave most vulnerable worst off
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">63305212</guid>
-         <pubDate>Fri, 13 Jan 2023 09:10:31 +0000</pubDate>
+         <pubDate>Fri, 13 Jan 2023 21:07:42 +0000</pubDate>
       </item>
       <item>
          <title>Post-Christmas retail activity rose compared with 2021 </title>
@@ -60,7 +60,7 @@ Read our full bulletin on Economic activity and social change in the UK
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">34695735</guid>
-         <pubDate>Fri, 13 Jan 2023 09:10:31 +0000</pubDate>
+         <pubDate>Fri, 13 Jan 2023 21:07:42 +0000</pubDate>
       </item>
       <item>
          <title>Cost of future fixed-rate mortgages could increase </title>
@@ -103,7 +103,7 @@ Read our full article on how increases in mortgage costs impact households
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">22547912</guid>
-         <pubDate>Fri, 13 Jan 2023 09:10:31 +0000</pubDate>
+         <pubDate>Fri, 13 Jan 2023 21:07:42 +0000</pubDate>
       </item>
       <item>
          <title>UK labour productivity 10% lower than other G7 nations in 2021 </title>
@@ -142,7 +142,7 @@ Read our full bulletin on international comparisons of UK productivity for 2021
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">64366364</guid>
-         <pubDate>Fri, 13 Jan 2023 09:10:31 +0000</pubDate>
+         <pubDate>Fri, 13 Jan 2023 21:07:42 +0000</pubDate>
       </item>
       <item>
          <title>Debit card spending falls, in line with seasonal patterns </title>
@@ -158,7 +158,7 @@ Read our bulletin on Economic activity and social change in the UK, real-time in
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">51686287</guid>
-         <pubDate>Fri, 13 Jan 2023 09:10:31 +0000</pubDate>
+         <pubDate>Fri, 13 Jan 2023 21:07:42 +0000</pubDate>
       </item>
       <item>
          <title>Fuel imports from non-EU countries fell for third month in a row</title>
@@ -191,7 +191,7 @@ Read our latest UK Trade bulletin.
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">7317058</guid>
-         <pubDate>Fri, 13 Jan 2023 09:10:31 +0000</pubDate>
+         <pubDate>Fri, 13 Jan 2023 21:07:42 +0000</pubDate>
       </item>
       <item>
          <title>UK GDP estimated to have grown 0.1% in November 2022 </title>
@@ -229,7 +229,46 @@ Read our latest bulletin on UK monthly GDP.
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">85651678</guid>
-         <pubDate>Fri, 13 Jan 2023 09:10:31 +0000</pubDate>
+         <pubDate>Fri, 13 Jan 2023 21:07:42 +0000</pubDate>
+      </item>
+      <item>
+         <title>A fifth of adults say travel plans affected by rail strikes </title>
+         <link>https://www.ons.gov.uk/releases/publicopinionsandsocialtrendsgreatbritain21december2022to8january2023</link>
+         <description>
+
+A fifth of adults say travel plans affected by rail strikes 13 January 2023Around 1 in 5 adults across Great Britain said their travel plans in the previous two weeks had been disrupted by rail strikes. That is according to data collected between 21 December 2022 and 8 January 2023 from the Opinions and Lifestyle Survey, which covers the period of industrial action on the rail network in the lead-up to, and after, Christmas. The survey also reveals around 9 in 10 adults (92%) reported the cost of living as an important issue facing the UK today. More than 8 in 10 (85%) said the NHS was an important issue, up from 81% among those surveyed between 7 and 18 December 2022. That was followed by 75% who cited the economy, while 58% said climate change. 
+
+The cost of living was the most frequently cited concern 
+Proportion of all adults in Great Britain, 21 December 2022 to 8 January 2023
+
+
+
+
+
+
+
+Source: Office for National Statistics (ONS) - Opinions and Lifestyle Survey (OPN)
+
+
+Download this chart The cost of living was the most frequently cited concern 
+Image
+
+.csv
+
+
+.xls
+
+
+The survey also revealed around two-thirds (65%) of adults have reported they are spending less on non-essentials because of the rising cost of living, while around 4 in 10 adults (41%) reported spending less on food shopping and essentials. That was down from 46% among those asked between 22 November and 4 December 2022. However, it was still far higher than the 25% who said the same when the question was first asked between 15 December 2021 and 3 January 2022. 
+
+Read our latest bulletin on Public opinions and social trends, Great Britain
+🠕 Back to the top
+
+
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">55782062</guid>
+         <pubDate>Fri, 13 Jan 2023 21:07:42 +0000</pubDate>
       </item>
    </channel>
 </rss>
