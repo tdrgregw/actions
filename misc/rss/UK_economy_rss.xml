@@ -6,7 +6,7 @@
       <description>RSS feed capturing updates to the ONS UK Economy blog</description>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>python-feedgen</generator>
-      <lastBuildDate>Thu, 12 Jan 2023 21:06:43 +0000</lastBuildDate>
+      <lastBuildDate>Fri, 13 Jan 2023 09:10:31 +0000</lastBuildDate>
       <item>
          <title>Rising food prices leave most vulnerable worst off </title>
          <link>https://www.ons.gov.uk/releases/risingfoodpricesandtheimpactonconsumers</link>
@@ -44,7 +44,7 @@ Read our full article here: Rising food prices leave most vulnerable worst off
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">63305212</guid>
-         <pubDate>Thu, 12 Jan 2023 21:06:43 +0000</pubDate>
+         <pubDate>Fri, 13 Jan 2023 09:10:31 +0000</pubDate>
       </item>
       <item>
          <title>Post-Christmas retail activity rose compared with 2021 </title>
@@ -60,7 +60,7 @@ Read our full bulletin on Economic activity and social change in the UK
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">34695735</guid>
-         <pubDate>Thu, 12 Jan 2023 21:06:43 +0000</pubDate>
+         <pubDate>Fri, 13 Jan 2023 09:10:31 +0000</pubDate>
       </item>
       <item>
          <title>Cost of future fixed-rate mortgages could increase </title>
@@ -103,7 +103,7 @@ Read our full article on how increases in mortgage costs impact households
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">22547912</guid>
-         <pubDate>Thu, 12 Jan 2023 21:06:43 +0000</pubDate>
+         <pubDate>Fri, 13 Jan 2023 09:10:31 +0000</pubDate>
       </item>
       <item>
          <title>UK labour productivity 10% lower than other G7 nations in 2021 </title>
@@ -142,7 +142,7 @@ Read our full bulletin on international comparisons of UK productivity for 2021
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">64366364</guid>
-         <pubDate>Thu, 12 Jan 2023 21:06:43 +0000</pubDate>
+         <pubDate>Fri, 13 Jan 2023 09:10:31 +0000</pubDate>
       </item>
       <item>
          <title>Debit card spending falls, in line with seasonal patterns </title>
@@ -158,7 +158,78 @@ Read our bulletin on Economic activity and social change in the UK, real-time in
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">51686287</guid>
-         <pubDate>Thu, 12 Jan 2023 21:06:43 +0000</pubDate>
+         <pubDate>Fri, 13 Jan 2023 09:10:31 +0000</pubDate>
+      </item>
+      <item>
+         <title>Fuel imports from non-EU countries fell for third month in a row</title>
+         <link>https://www.ons.gov.uk/releases/uktradenovember2022</link>
+         <description>
+
+Fuel imports from non-EU countries fell for third month in a row13 January 2023Gas prices continued to decrease in November 2022, leading to the third consecutive month of decreases in the value of fuel imports to the UK from non-EU countries. However, the overall value of goods imports to the UK increased by £1.8 billion (3.5%). Goods imports from EU countries increased by £1.2 billion (4.7%) and imports from non-EU countries rose by £0.6 billion (2.2%), both driven by rising imports of machinery and transport equipment. When removing the effect of inflation, total imports of goods increased by £2.5 billion (6.1%) in November 2022. This was because of a £1.3 billion (7.0%) increase in imports from non-EU countries, and a £1.2 billion (5.3%) increase in imports from the EU. Total exports of goods increased slightly by £0.2 billion (0.7%) in November 2022, with an increase in exports to non-EU countries partially offset by falling exports to the EU. The decrease in exports to the EU was driven by a £0.4 billion fall in fuel exports. When removing the effect of inflation, total exports of goods increased by £0.5 billion (1.7%) in November 2022. Exports to non-EU countries increased by £0.6 billion (4.6%) while exports to the EU fell by £0.2 billion (1.2%). The trade in goods and services deficit, excluding precious metals, narrowed by £6.5 billion to £20.2 billion in the three months to November 2022. This was driven by a decrease in goods imports from non-EU countries, which is linked to falling fuel prices. Imports of goods from both EU and non-EU countries rose in November 2022EU and non-EU goods imports and exports, excluding precious metals, November 2019 to November 2022
+
+
+Embed code
+
+Embed this interactive
+
+
+Copy
+
+
+
+
+
+Notes:
+
+Caution should be taken when interpreting these data as there is a discontinuity from January 2021 in EU trade following an HM Revenue and Customs data collection change. Our Impact of trade in goods data collection changes on UK trade statistics article provides more detail.
+Download the data
+
+Read our latest UK Trade bulletin.
+🠕 Back to the top
+
+
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">7317058</guid>
+         <pubDate>Fri, 13 Jan 2023 09:10:31 +0000</pubDate>
+      </item>
+      <item>
+         <title>UK GDP estimated to have grown 0.1% in November 2022 </title>
+         <link>https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpmonthlyestimateuk/latest</link>
+         <description>
+
+UK GDP estimated to have grown 0.1% in November 2022 13 January 2023Monthly real gross domestic product (GDP) is estimated to have grown 0.1% in November 2022, following growth of 0.5% in October 2022. Looking at the broader picture, UK GDP fell by 0.3% in the three months to November 2022 compared with the three months to August 2022. Services grew by 0.2% in November 2022, after an increase of 0.7% in October 2022. The largest contribution to the growth came from administrative and support activities, which grew by 2.0% in November 2022, following growth of 1.7% in October 2022. Production output fell by 0.2% in November 2022, after a fall of 0.1% in October 2022 . The fall of 0.5% in manufacturing was the largest contributor to the production sector’s negative growth. Construction saw no growth in November 2022, following an increase of 0.4% in October 2022. 
+
+Services was the main contributor to positive monthly GDP growth in November 2022 
+Contributions to monthly GDP growth, November 2021 to November 2022, UK 
+
+
+
+
+
+
+
+Source: Office for National Statistics – GDP monthly estimate 
+
+
+Download this chart Services was the main contributor to positive monthly GDP growth in November 2022 
+Image
+
+.csv
+
+
+.xls
+
+
+
+Read our latest bulletin on UK monthly GDP.
+🠕 Back to the top
+
+
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">85651678</guid>
+         <pubDate>Fri, 13 Jan 2023 09:10:31 +0000</pubDate>
       </item>
    </channel>
 </rss>
