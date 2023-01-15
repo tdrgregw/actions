@@ -6,7 +6,7 @@
       <description>RSS feed capturing updates to the ONS UK Economy blog</description>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>python-feedgen</generator>
-      <lastBuildDate>Sun, 15 Jan 2023 09:08:11 +0000</lastBuildDate>
+      <lastBuildDate>Sun, 15 Jan 2023 21:07:21 +0000</lastBuildDate>
       <item>
          <title>Rising food prices leave most vulnerable worst off </title>
          <link>https://www.ons.gov.uk/releases/risingfoodpricesandtheimpactonconsumers</link>
@@ -44,7 +44,7 @@ Read our full article here: Rising food prices leave most vulnerable worst off
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">63305212</guid>
-         <pubDate>Sun, 15 Jan 2023 09:08:11 +0000</pubDate>
+         <pubDate>Sun, 15 Jan 2023 21:07:21 +0000</pubDate>
       </item>
       <item>
          <title>Post-Christmas retail activity rose compared with 2021 </title>
@@ -60,7 +60,7 @@ Read our full bulletin on Economic activity and social change in the UK
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">34695735</guid>
-         <pubDate>Sun, 15 Jan 2023 09:08:11 +0000</pubDate>
+         <pubDate>Sun, 15 Jan 2023 21:07:21 +0000</pubDate>
       </item>
       <item>
          <title>Cost of future fixed-rate mortgages could increase </title>
@@ -103,7 +103,7 @@ Read our full article on how increases in mortgage costs impact households
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">22547912</guid>
-         <pubDate>Sun, 15 Jan 2023 09:08:11 +0000</pubDate>
+         <pubDate>Sun, 15 Jan 2023 21:07:21 +0000</pubDate>
       </item>
       <item>
          <title>UK labour productivity 10% lower than other G7 nations in 2021 </title>
@@ -142,7 +142,7 @@ Read our full bulletin on international comparisons of UK productivity for 2021
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">64366364</guid>
-         <pubDate>Sun, 15 Jan 2023 09:08:11 +0000</pubDate>
+         <pubDate>Sun, 15 Jan 2023 21:07:21 +0000</pubDate>
       </item>
       <item>
          <title>Debit card spending falls, in line with seasonal patterns </title>
@@ -158,7 +158,7 @@ Read our bulletin on Economic activity and social change in the UK, real-time in
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">51686287</guid>
-         <pubDate>Sun, 15 Jan 2023 09:08:11 +0000</pubDate>
+         <pubDate>Sun, 15 Jan 2023 21:07:21 +0000</pubDate>
       </item>
       <item>
          <title>Fuel imports from non-EU countries fell for third month in a row</title>
@@ -191,7 +191,7 @@ Read our latest UK Trade bulletin.
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">7317058</guid>
-         <pubDate>Sun, 15 Jan 2023 09:08:11 +0000</pubDate>
+         <pubDate>Sun, 15 Jan 2023 21:07:21 +0000</pubDate>
       </item>
       <item>
          <title>UK GDP estimated to have grown 0.1% in November 2022 </title>
@@ -229,7 +229,7 @@ Read our latest bulletin on UK monthly GDP.
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">85651678</guid>
-         <pubDate>Sun, 15 Jan 2023 09:08:11 +0000</pubDate>
+         <pubDate>Sun, 15 Jan 2023 21:07:21 +0000</pubDate>
       </item>
       <item>
          <title>A fifth of adults say travel plans affected by rail strikes </title>
@@ -268,7 +268,7 @@ Read our latest bulletin on Public opinions and social trends, Great Britain
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">55782062</guid>
-         <pubDate>Sun, 15 Jan 2023 09:08:11 +0000</pubDate>
+         <pubDate>Sun, 15 Jan 2023 21:07:21 +0000</pubDate>
       </item>
    </channel>
 </rss>
