@@ -6,7 +6,7 @@
       <description>RSS feed capturing updates to the ONS UK Economy blog</description>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>python-feedgen</generator>
-      <lastBuildDate>Mon, 16 Jan 2023 21:07:55 +0000</lastBuildDate>
+      <lastBuildDate>Tue, 17 Jan 2023 09:08:57 +0000</lastBuildDate>
       <item>
          <title>Rising food prices leave most vulnerable worst off </title>
          <link>https://www.ons.gov.uk/releases/risingfoodpricesandtheimpactonconsumers</link>
@@ -44,7 +44,7 @@ Read our full article here: Rising food prices leave most vulnerable worst off
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">63305212</guid>
-         <pubDate>Mon, 16 Jan 2023 21:07:55 +0000</pubDate>
+         <pubDate>Tue, 17 Jan 2023 09:08:57 +0000</pubDate>
       </item>
       <item>
          <title>Post-Christmas retail activity rose compared with 2021 </title>
@@ -60,7 +60,7 @@ Read our full bulletin on Economic activity and social change in the UK
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">34695735</guid>
-         <pubDate>Mon, 16 Jan 2023 21:07:55 +0000</pubDate>
+         <pubDate>Tue, 17 Jan 2023 09:08:57 +0000</pubDate>
       </item>
       <item>
          <title>Cost of future fixed-rate mortgages could increase </title>
@@ -103,7 +103,7 @@ Read our full article on how increases in mortgage costs impact households
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">22547912</guid>
-         <pubDate>Mon, 16 Jan 2023 21:07:55 +0000</pubDate>
+         <pubDate>Tue, 17 Jan 2023 09:08:57 +0000</pubDate>
       </item>
       <item>
          <title>UK labour productivity 10% lower than other G7 nations in 2021 </title>
@@ -142,7 +142,7 @@ Read our full bulletin on international comparisons of UK productivity for 2021
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">64366364</guid>
-         <pubDate>Mon, 16 Jan 2023 21:07:55 +0000</pubDate>
+         <pubDate>Tue, 17 Jan 2023 09:08:57 +0000</pubDate>
       </item>
       <item>
          <title>Debit card spending falls, in line with seasonal patterns </title>
@@ -158,7 +158,7 @@ Read our bulletin on Economic activity and social change in the UK, real-time in
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">51686287</guid>
-         <pubDate>Mon, 16 Jan 2023 21:07:55 +0000</pubDate>
+         <pubDate>Tue, 17 Jan 2023 09:08:57 +0000</pubDate>
       </item>
       <item>
          <title>Fuel imports from non-EU countries fell for third month in a row</title>
@@ -191,7 +191,7 @@ Read our latest UK Trade bulletin.
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">7317058</guid>
-         <pubDate>Mon, 16 Jan 2023 21:07:55 +0000</pubDate>
+         <pubDate>Tue, 17 Jan 2023 09:08:57 +0000</pubDate>
       </item>
       <item>
          <title>UK GDP estimated to have grown 0.1% in November 2022 </title>
@@ -229,7 +229,7 @@ Read our latest bulletin on UK monthly GDP.
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">85651678</guid>
-         <pubDate>Mon, 16 Jan 2023 21:07:55 +0000</pubDate>
+         <pubDate>Tue, 17 Jan 2023 09:08:57 +0000</pubDate>
       </item>
       <item>
          <title>A fifth of adults say travel plans affected by rail strikes </title>
@@ -268,7 +268,23 @@ Read our latest bulletin on Public opinions and social trends, Great Britain
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">55782062</guid>
-         <pubDate>Mon, 16 Jan 2023 21:07:55 +0000</pubDate>
+         <pubDate>Tue, 17 Jan 2023 09:08:57 +0000</pubDate>
+      </item>
+      <item>
+         <title>Real value of pay continues to fall </title>
+         <link>https://www.ons.gov.uk/releases/uklabourmarketjanuary2023</link>
+         <description>
+
+Real value of pay continues to fall 17 January 2023Regular pay for UK employees fell at near-record levels in the three months to November 2022 after accounting for the rising cost of living. Average regular pay (excluding bonuses) among employees grew 6.4% in September to November 2022, which is the strongest growth rate seen outside the coronavirus (COVID-19) pandemic. The private sector saw growth of 7.2%, while it rose by 3.3% in the public sector. After adjusting for inflation (the rising cost of goods and services), however, pay fell in real terms over the year by 2.6%, which is among the largest drops since records began in 2001. The number of vacancies across the UK in October to December 2022 also fell by 75,000, to 1,161,000, which survey respondents say reflects economic pressures. Although that means there have been six quarterly (three-month period) falls in a row, the number of vacancies remains at historically high levels. The redundancy rate also increased to 3.4 per 1,000 employees in September to November 2022 but remains low. Economic inactivity (people not working nor seeking work) fell very slightly in the last quarter (September to November 2022), although 21.5% of those aged 16 to 64 years in the UK were still classed as economically inactive. 
+
+Read our Labour market overview, UK: January 2023
+🠕 Back to the top
+
+
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">5781872</guid>
+         <pubDate>Tue, 17 Jan 2023 09:08:57 +0000</pubDate>
       </item>
    </channel>
 </rss>
