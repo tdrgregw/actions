@@ -6,46 +6,7 @@
       <description>RSS feed capturing updates to the ONS UK Economy blog</description>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>python-feedgen</generator>
-      <lastBuildDate>Wed, 18 Jan 2023 09:08:56 +0000</lastBuildDate>
-      <item>
-         <title>UK labour productivity 10% lower than other G7 nations in 2021 </title>
-         <link>https://www.ons.gov.uk/releases/internationalcomparisonsofukproductivityicpfinalestimates2021</link>
-         <description>
-
-UK labour productivity 10% lower than other G7 nations in 2021 11 January 2023The UK had lower labour productivity than France, Germany and the USA during 2021, when measured as a ratio of economic output per hour worked. Comparing the gross domestic product (GDP) with an estimate of total hours worked (after considering overtime and various forms of leave), the UK had an output of £46.92 in current prices for every hour worked in 2021. This was 10% lower than the overall average among Canada, France, Germany, Italy, and the USA. These countries together with Japan, for which 2021 data are not available, and the UK form the G7. 
-
-Labour productivity in the UK was lower than the USA, France and Germany in 2021
-Annual output per hour worked (component method), whole economy, current price (CP) in GBP, 2021 
-
-
-
-
-
-
-
-Source: Organisation for Economic Co-operation Development data, Office for National Statistics calculations
-
-
-Download this chart Labour productivity in the UK was lower than the USA, France and Germany in 2021
-Image
-
-.csv
-
-
-.xls
-
-
-The USA had the highest economic output at £58.88 per hour worked during 2021, followed by Germany (£55.83) and France (£55.50). Both Italy and Canada had lower economic outputs per hour worked than the UK at £45.33 and £42.94, respectively. All G7 countries experienced a recovery in their output per hour worked during 2021 after productivity declined across the board during 2020, the first year of the coronavirus (COVID-19) pandemic. While the UK had the largest decline in output per hour worked (12%) in 2020, the UK also experienced faster growth in this metric (22%) than any other G7 country in 2021. 
-
-Read our full bulletin on international comparisons of UK productivity for 2021
-🠕 Back to the top 
-
-
-</description>
-         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
-         <guid isPermaLink="false">64366364</guid>
-         <pubDate>Wed, 18 Jan 2023 09:08:56 +0000</pubDate>
-      </item>
+      <lastBuildDate>Wed, 18 Jan 2023 21:08:14 +0000</lastBuildDate>
       <item>
          <title>Debit card spending falls, in line with seasonal patterns </title>
          <link>https://www.ons.gov.uk/releases/economicactivityandsocialchangeintheukrealtimeindicators12january2023</link>
@@ -60,7 +21,7 @@ Read our bulletin on Economic activity and social change in the UK, real-time in
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">51686287</guid>
-         <pubDate>Wed, 18 Jan 2023 09:08:56 +0000</pubDate>
+         <pubDate>Wed, 18 Jan 2023 21:08:14 +0000</pubDate>
       </item>
       <item>
          <title>Fuel imports from non-EU countries fell for third month in a row</title>
@@ -93,7 +54,7 @@ Read our latest UK Trade bulletin.
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">7317058</guid>
-         <pubDate>Wed, 18 Jan 2023 09:08:56 +0000</pubDate>
+         <pubDate>Wed, 18 Jan 2023 21:08:14 +0000</pubDate>
       </item>
       <item>
          <title>UK GDP estimated to have grown 0.1% in November 2022 </title>
@@ -131,7 +92,7 @@ Read our latest bulletin on UK monthly GDP.
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">85651678</guid>
-         <pubDate>Wed, 18 Jan 2023 09:08:56 +0000</pubDate>
+         <pubDate>Wed, 18 Jan 2023 21:08:14 +0000</pubDate>
       </item>
       <item>
          <title>A fifth of adults say travel plans affected by rail strikes </title>
@@ -170,7 +131,7 @@ Read our latest bulletin on Public opinions and social trends, Great Britain
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">55782062</guid>
-         <pubDate>Wed, 18 Jan 2023 09:08:56 +0000</pubDate>
+         <pubDate>Wed, 18 Jan 2023 21:08:14 +0000</pubDate>
       </item>
       <item>
          <title>Real value of pay continues to fall </title>
@@ -186,7 +147,7 @@ Read our Labour market overview, UK: January 2023
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">5781872</guid>
-         <pubDate>Wed, 18 Jan 2023 09:08:56 +0000</pubDate>
+         <pubDate>Wed, 18 Jan 2023 21:08:14 +0000</pubDate>
       </item>
       <item>
          <title>Inflation continues to ease from record highs </title>
@@ -225,7 +186,46 @@ Read our latest Consumer Prices Index bulletin
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">45878293</guid>
-         <pubDate>Wed, 18 Jan 2023 09:08:56 +0000</pubDate>
+         <pubDate>Wed, 18 Jan 2023 21:08:14 +0000</pubDate>
+      </item>
+      <item>
+         <title>Rental price rises break records as house price growth slows </title>
+         <link>https://www.ons.gov.uk/releases/indexofprivatehousingrentalpricesukdecember2022</link>
+         <description>
+
+Rental price rises break records as house price growth slows 18 January 2023Private rental prices rose at record rates in all UK countries in the year to December 2022. Overall, private rental prices in the UK increased 4.2% during that time, up from 4.0% in the year to November 2022. This is the eighth consecutive month of record-breaking growth in rental prices. In the year to December 2022, private rental prices rose in England by 4.1% and in Wales by 3.5%. These were the largest increases recorded since the data series began in each of these countries in 2006 and 2010, respectively. Rental prices in Scotland grew by 4.4% in the year to December 2022, remaining at the record high set last month. 
+
+Private rental prices continue to rise faster in Scotland than England and Wales 
+Index of Private Housing Rental Prices percentage change over 12 months for countries of the UK, January 2012 to December 2022 
+
+
+
+
+
+
+
+Source: Office for National Statistics – Index of Private Housing Rental Prices 
+
+
+Download this chart Private rental prices continue to rise faster in Scotland than England and Wales 
+Image
+
+.csv
+
+
+.xls
+
+
+UK house price annual growth slowed in the year to November 2022, slowing to 10.3% from 12.4% in October 2022. The average UK house price was £295,000, which is £28,000 higher than the average price in November 2021. Of all English regions, annual house price percentage change in the year to November 2022 was highest in the North West (13.5%) and lowest in London (6.3%). Although London experienced the lowest annual percentage change of all English regions in the year to November 2022, Scotland experienced lower annual growth for the same period. Average house prices in Scotland increased by 5.5% in the year to November 2022, about half the growth rate of all other UK nations. Average house price growth in Scotland has generally slowed since April 2022. 
+
+Read our latest bulletins on the UK House Price Index and the Index of Private Housing Rental Prices
+🠕 Back to the top 
+
+
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">66946553</guid>
+         <pubDate>Wed, 18 Jan 2023 21:08:14 +0000</pubDate>
       </item>
    </channel>
 </rss>
