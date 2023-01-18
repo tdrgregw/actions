@@ -6,105 +6,7 @@
       <description>RSS feed capturing updates to the ONS UK Economy blog</description>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>python-feedgen</generator>
-      <lastBuildDate>Tue, 17 Jan 2023 21:08:03 +0000</lastBuildDate>
-      <item>
-         <title>Rising food prices leave most vulnerable worst off </title>
-         <link>https://www.ons.gov.uk/releases/risingfoodpricesandtheimpactonconsumers</link>
-         <description>
-
-Rising food prices leave most vulnerable worst off 22 December 2022The rising cost of supermarket staples is hitting low-income families the hardest, while households in the most-deprived areas are more likely to be buying less food. The price of food and non-alcoholic drink rose by 16.5% in the 12 months to November 2022, which was the largest increase for 45 years according to our UK Consumer Price Inflation data. Bread and cereals had the largest upward effect on the annual inflation rate in November compared with October. 
-
-Food and drink prices are rising at the fastest rate since 1977 
-Consumer Prices Index including owner occupiers' housing costs (CPIH), and food and non-alcoholic drinks annual inflation rates, UK, November 2012 to November 2022 
-
-
-
-
-
-
-
-Source: Office for National Statistics (ONS) – Consumer price inflation
-
-
-Download this chart Food and drink prices are rising at the fastest rate since 1977 
-Image
-
-.csv
-
-
-.xls
-
-
-Our research shows that the rising prices of these basic items has a greater effect on low-income households, who spend a larger proportion of their budget on food and non-alcoholic drink. More than half (51%) of British adults reported buying less when food shopping in the last two weeks, when surveyed between 22 November and 4 December 2022. Figures covering England show that 61% of adults in the most-deprived areas were buying less on their food shop, compared with 44% of people in the least-deprived areas. This could be having a knock-on effect on some people’s health. A Food Standards Agency survey found that in November 2022, 23% of participants said they had skipped a meal or cut down the size of their meals because they could not afford to buy food in the past month. 
-
-Read our full article here: Rising food prices leave most vulnerable worst off 
-🠕 Back to the top
-
-
-</description>
-         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
-         <guid isPermaLink="false">63305212</guid>
-         <pubDate>Tue, 17 Jan 2023 21:08:03 +0000</pubDate>
-      </item>
-      <item>
-         <title>Post-Christmas retail activity rose compared with 2021 </title>
-         <link>https://www.ons.gov.uk/releases/economicactivityandsocialchangeintheukrealtimeindicators6january2023</link>
-         <description>
-
-Post-Christmas retail activity rose compared with 2021 06 January 2023Retail activity fell across the UK after Christmas but was still well above the levels seen a year earlier, with Wales seeing the largest rise. Overall retail footfall in the week to 1 January 2023 fell to 84% of the level of the previous week, according to figures collected by data firm Springboard. The drop followed the busy Christmas shopping period and was in line with expected seasonal trends. Footfall in shopping centres saw the biggest decrease, at 80% of the level of the previous week. However, the level of activity was above that recorded in the same period a year earlier across all nine English regions and the three other UK nations. Wales saw the largest increase, at 121% of the level of the previous year. This coincided with national coronavirus (COVID-19) restrictions. 
-
-Read our full bulletin on Economic activity and social change in the UK 
-🠕 Back to the top
-
-
-</description>
-         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
-         <guid isPermaLink="false">34695735</guid>
-         <pubDate>Tue, 17 Jan 2023 21:08:03 +0000</pubDate>
-      </item>
-      <item>
-         <title>Cost of future fixed-rate mortgages could increase </title>
-         <link>/generator?uri=/economy/economicoutputandproductivity/output/articles/ukeconomylatest/2021-01-25/e4dcacc8&amp;format=xls</link>
-         <description>
-
-Cost of future fixed-rate mortgages could increase 9 January 2023More than 1.4 million households in the UK are facing the prospect of interest rate rises when they renew their fixed rate mortgages in 2023. Most fixed rate mortgages in the UK (57%) coming up for renewal in 2023 were fixed at interest rates below 2%. Those trying to secure a new fixed-rate deal may have to do it at a higher rate of interest. The effective interest rate on outstanding mortgages with a fixed rate was 2.08% in November 2022, according to the Bank of England (BoE). Should the interest rate on a £100,000 mortgage increase from 2% to 6%, assuming a 25-year capital and repayment mortgage, then the monthly mortgage repayment on the same mortgage would increase by £220 (from £424 to £644). However, assuming the same increase on a £300,000 mortgage, monthly repayments would rise by £661 (from £1,272 to £1,933). The BoE's Financial Stability Report - December 2022, suggests that mortgagors on fixed rates set to expire by the end of 2023 are facing monthly repayment increases of around £250 upon refinancing to a new fixed rate. 
-
-The mortgage costs that households face depend on the amount they borrowed and the interest rate on their mortgage 
-Monthly mortgage costs at differing amounts of borrowing and different fixed interest rate 
-
-
-
-
-
-
-
-Source: Office for National Statistics
-
-Notes:
-
-The standard mortgage repayment formula used to estimate monthly costs assumes a 25-year repayment period for a capital and repayment mortgage
-
-
-Download this chart The mortgage costs that households face depend on the amount they borrowed and the interest rate on their mortgage 
-Image
-
-.csv
-
-
-.xls
-
-
-Those on a variable rate mortgage, where the interest rate varies over the course of the repayment term, will have already seen higher interest rates as a result of market conditions including rises in the BoE base rate (the &quot;Bank Rate&quot;). Private renters are also facing an increase to their housing costs, with rental price growth at its highest rate in the UK since records began in 2016. 
-
-Read our full article on how increases in mortgage costs impact households
-
-
-
-</description>
-         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
-         <guid isPermaLink="false">22547912</guid>
-         <pubDate>Tue, 17 Jan 2023 21:08:03 +0000</pubDate>
-      </item>
+      <lastBuildDate>Wed, 18 Jan 2023 09:08:56 +0000</lastBuildDate>
       <item>
          <title>UK labour productivity 10% lower than other G7 nations in 2021 </title>
          <link>https://www.ons.gov.uk/releases/internationalcomparisonsofukproductivityicpfinalestimates2021</link>
@@ -142,7 +44,7 @@ Read our full bulletin on international comparisons of UK productivity for 2021
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">64366364</guid>
-         <pubDate>Tue, 17 Jan 2023 21:08:03 +0000</pubDate>
+         <pubDate>Wed, 18 Jan 2023 09:08:56 +0000</pubDate>
       </item>
       <item>
          <title>Debit card spending falls, in line with seasonal patterns </title>
@@ -158,7 +60,7 @@ Read our bulletin on Economic activity and social change in the UK, real-time in
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">51686287</guid>
-         <pubDate>Tue, 17 Jan 2023 21:08:03 +0000</pubDate>
+         <pubDate>Wed, 18 Jan 2023 09:08:56 +0000</pubDate>
       </item>
       <item>
          <title>Fuel imports from non-EU countries fell for third month in a row</title>
@@ -191,7 +93,7 @@ Read our latest UK Trade bulletin.
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">7317058</guid>
-         <pubDate>Tue, 17 Jan 2023 21:08:03 +0000</pubDate>
+         <pubDate>Wed, 18 Jan 2023 09:08:56 +0000</pubDate>
       </item>
       <item>
          <title>UK GDP estimated to have grown 0.1% in November 2022 </title>
@@ -229,7 +131,7 @@ Read our latest bulletin on UK monthly GDP.
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">85651678</guid>
-         <pubDate>Tue, 17 Jan 2023 21:08:03 +0000</pubDate>
+         <pubDate>Wed, 18 Jan 2023 09:08:56 +0000</pubDate>
       </item>
       <item>
          <title>A fifth of adults say travel plans affected by rail strikes </title>
@@ -268,7 +170,7 @@ Read our latest bulletin on Public opinions and social trends, Great Britain
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">55782062</guid>
-         <pubDate>Tue, 17 Jan 2023 21:08:03 +0000</pubDate>
+         <pubDate>Wed, 18 Jan 2023 09:08:56 +0000</pubDate>
       </item>
       <item>
          <title>Real value of pay continues to fall </title>
@@ -284,7 +186,46 @@ Read our Labour market overview, UK: January 2023
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">5781872</guid>
-         <pubDate>Tue, 17 Jan 2023 21:08:03 +0000</pubDate>
+         <pubDate>Wed, 18 Jan 2023 09:08:56 +0000</pubDate>
+      </item>
+      <item>
+         <title>Inflation continues to ease from record highs </title>
+         <link>https://www.ons.gov.uk/releases/consumerpriceinflationukdecember2022</link>
+         <description>
+
+Inflation continues to ease from record highs 18 January 2023The annual inflation rate in the UK has continued to ease from 40-year highs, driven by lower rises in motor fuel prices. This was partially offset by higher rises in prices for passenger travel, notably for air travel, which reached record highs. In the year to December 2022, the Consumer Prices Index including owner occupier’s housing costs (CPIH) rose by 9.2%, down from 9.3% in November and 9.6% in October. Indicative modelled estimates suggest that the October rate was the highest rate in over 40 years. In the most recent month however, the CPIH annual rate was equal to the rate recorded just over 30 years earlier, between September and December 1990. The Consumer Prices Index (CPI) rose by 10.5% in the 12 months to December 2022, down from 10.7% in November and 11.1% in October. These falls were driven by lower inflation in transport, notably for motor fuels. The annual CPIH inflation rate for transport was 6.9% in December 2022, down for a sixth consecutive month from a peak of 15.2% in June 2022, and the lowest rate since May 2021. 
+
+Transport inflation eased in December 2022 
+CPIH, transport and motor fuels annual inflation rates, UK, December 2012 to December 2022 
+
+
+
+
+
+
+
+Source: Office for National Statistics – Consumer price inflation
+
+
+Download this chart Transport inflation eased in December 2022 
+Image
+
+.csv
+
+
+.xls
+
+
+The easing in motor fuels inflation in December 2022 was partially offset by annual price rises of 11.3% for passenger transport by road (largely because of coach fares) and 44.1% for passenger transport by air. The annual inflation rate for passenger transport by air of 44.1% is the largest recorded rate for this class in the national statistic series, which begins in January 2006, and in the constructed series, which begins in January 1989. 
+
+Read our latest Consumer Prices Index bulletin
+🠕 Back to the top
+
+
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">45878293</guid>
+         <pubDate>Wed, 18 Jan 2023 09:08:56 +0000</pubDate>
       </item>
    </channel>
 </rss>
