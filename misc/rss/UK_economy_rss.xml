@@ -6,7 +6,7 @@
       <description>RSS feed capturing updates to the ONS UK Economy blog</description>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>python-feedgen</generator>
-      <lastBuildDate>Mon, 23 Jan 2023 09:09:26 +0000</lastBuildDate>
+      <lastBuildDate>Mon, 23 Jan 2023 21:08:01 +0000</lastBuildDate>
       <item>
          <title>Fuel imports from non-EU countries fell for third month in a row</title>
          <link>https://www.ons.gov.uk/releases/uktradenovember2022</link>
@@ -38,7 +38,7 @@ Read our latest UK Trade bulletin.
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">7317058</guid>
-         <pubDate>Mon, 23 Jan 2023 09:09:26 +0000</pubDate>
+         <pubDate>Mon, 23 Jan 2023 21:08:01 +0000</pubDate>
       </item>
       <item>
          <title>UK GDP estimated to have grown 0.1% in November 2022 </title>
@@ -76,7 +76,7 @@ Read our latest bulletin on UK monthly GDP.
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">85651678</guid>
-         <pubDate>Mon, 23 Jan 2023 09:09:26 +0000</pubDate>
+         <pubDate>Mon, 23 Jan 2023 21:08:01 +0000</pubDate>
       </item>
       <item>
          <title>A fifth of adults say travel plans affected by rail strikes </title>
@@ -115,7 +115,7 @@ Read our latest bulletin on Public opinions and social trends, Great Britain
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">55782062</guid>
-         <pubDate>Mon, 23 Jan 2023 09:09:26 +0000</pubDate>
+         <pubDate>Mon, 23 Jan 2023 21:08:01 +0000</pubDate>
       </item>
       <item>
          <title>Real value of pay continues to fall </title>
@@ -131,7 +131,7 @@ Read our Labour market overview, UK: January 2023
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">5781872</guid>
-         <pubDate>Mon, 23 Jan 2023 09:09:26 +0000</pubDate>
+         <pubDate>Mon, 23 Jan 2023 21:08:01 +0000</pubDate>
       </item>
       <item>
          <title>Inflation continues to ease from record highs </title>
@@ -170,7 +170,7 @@ Read our latest Consumer Prices Index bulletin
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">45878293</guid>
-         <pubDate>Mon, 23 Jan 2023 09:09:26 +0000</pubDate>
+         <pubDate>Mon, 23 Jan 2023 21:08:01 +0000</pubDate>
       </item>
       <item>
          <title>Rental price rises break records as house price growth slows </title>
@@ -209,7 +209,7 @@ Read our latest bulletins on the UK House Price Index and the Index of Private H
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">66946553</guid>
-         <pubDate>Mon, 23 Jan 2023 09:09:26 +0000</pubDate>
+         <pubDate>Mon, 23 Jan 2023 21:08:01 +0000</pubDate>
       </item>
       <item>
          <title>Spending on debit cards continues to fall </title>
@@ -225,7 +225,7 @@ Read our latest Economic activity and social change in the UK, real-time indicat
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">1411301</guid>
-         <pubDate>Mon, 23 Jan 2023 09:09:26 +0000</pubDate>
+         <pubDate>Mon, 23 Jan 2023 21:08:01 +0000</pubDate>
       </item>
       <item>
          <title>Volume of sales fell again in December 2022 </title>
@@ -264,7 +264,7 @@ Read our full bulletin about Retail sales; Great Britain
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">5710714</guid>
-         <pubDate>Mon, 23 Jan 2023 09:09:26 +0000</pubDate>
+         <pubDate>Mon, 23 Jan 2023 21:08:01 +0000</pubDate>
       </item>
    </channel>
 </rss>
