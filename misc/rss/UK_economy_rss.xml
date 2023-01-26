@@ -6,101 +6,7 @@
       <description>RSS feed capturing updates to the ONS UK Economy blog</description>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>python-feedgen</generator>
-      <lastBuildDate>Thu, 26 Jan 2023 09:08:44 +0000</lastBuildDate>
-      <item>
-         <title>A fifth of adults say travel plans affected by rail strikes </title>
-         <link>https://www.ons.gov.uk/releases/publicopinionsandsocialtrendsgreatbritain21december2022to8january2023</link>
-         <description>
-
-A fifth of adults say travel plans affected by rail strikes 13 January 2023Around 1 in 5 adults across Great Britain said their travel plans in the previous two weeks had been disrupted by rail strikes. That is according to data collected between 21 December 2022 and 8 January 2023 from the Opinions and Lifestyle Survey, which covers the period of industrial action on the rail network in the lead-up to, and after, Christmas. The survey also reveals around 9 in 10 adults (92%) reported the cost of living as an important issue facing the UK today. More than 8 in 10 (85%) said the NHS was an important issue, up from 81% among those surveyed between 7 and 18 December 2022. That was followed by 75% who cited the economy, while 58% said climate change. 
-
-The cost of living was the most frequently cited concern 
-Proportion of all adults in Great Britain, 21 December 2022 to 8 January 2023
-
-
-
-
-
-
-
-Source: Office for National Statistics (ONS) - Opinions and Lifestyle Survey (OPN)
-
-
-Download this chart The cost of living was the most frequently cited concern 
-Image
-
-.csv
-
-
-.xls
-
-
-The survey also revealed around two-thirds (65%) of adults have reported they are spending less on non-essentials because of the rising cost of living, while around 4 in 10 adults (41%) reported spending less on food shopping and essentials. That was down from 46% among those asked between 22 November and 4 December 2022. However, it was still far higher than the 25% who said the same when the question was first asked between 15 December 2021 and 3 January 2022. 
-
-Read our latest bulletin on Public opinions and social trends, Great Britain
-🠕 Back to the top
-
-
-</description>
-         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
-         <guid isPermaLink="false">55782062</guid>
-         <pubDate>Thu, 26 Jan 2023 09:08:44 +0000</pubDate>
-      </item>
-      <item>
-         <title>Real value of pay continues to fall </title>
-         <link>https://www.ons.gov.uk/releases/uklabourmarketjanuary2023</link>
-         <description>
-
-Real value of pay continues to fall 17 January 2023Regular pay for UK employees fell at near-record levels in the three months to November 2022 after accounting for the rising cost of living. Average regular pay (excluding bonuses) among employees grew 6.4% in September to November 2022, which is the strongest growth rate seen outside the coronavirus (COVID-19) pandemic. The private sector saw growth of 7.2%, while it rose by 3.3% in the public sector. After adjusting for inflation (the rising cost of goods and services), however, pay fell in real terms over the year by 2.6%, which is among the largest drops since records began in 2001. The number of vacancies across the UK in October to December 2022 also fell by 75,000, to 1,161,000, which survey respondents say reflects economic pressures. Although that means there have been six quarterly (three-month period) falls in a row, the number of vacancies remains at historically high levels. The redundancy rate also increased to 3.4 per 1,000 employees in September to November 2022 but remains low. Economic inactivity (people not working nor seeking work) fell very slightly in the last quarter (September to November 2022), although 21.5% of those aged 16 to 64 years in the UK were still classed as economically inactive. 
-
-Read our Labour market overview, UK: January 2023
-🠕 Back to the top
-
-
-</description>
-         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
-         <guid isPermaLink="false">5781872</guid>
-         <pubDate>Thu, 26 Jan 2023 09:08:44 +0000</pubDate>
-      </item>
-      <item>
-         <title>Inflation continues to ease from record highs </title>
-         <link>https://www.ons.gov.uk/releases/consumerpriceinflationukdecember2022</link>
-         <description>
-
-Inflation continues to ease from record highs 18 January 2023The annual inflation rate in the UK has continued to ease from 40-year highs, driven by lower rises in motor fuel prices. This was partially offset by higher rises in prices for passenger travel, notably for air travel, which reached record highs. In the year to December 2022, the Consumer Prices Index including owner occupier’s housing costs (CPIH) rose by 9.2%, down from 9.3% in November and 9.6% in October. Indicative modelled estimates suggest that the October rate was the highest rate in over 40 years. In the most recent month however, the CPIH annual rate was equal to the rate recorded just over 30 years earlier, between September and December 1990. The Consumer Prices Index (CPI) rose by 10.5% in the 12 months to December 2022, down from 10.7% in November and 11.1% in October. These falls were driven by lower inflation in transport, notably for motor fuels. The annual CPIH inflation rate for transport was 6.9% in December 2022, down for a sixth consecutive month from a peak of 15.2% in June 2022, and the lowest rate since May 2021. 
-
-Transport inflation eased in December 2022 
-CPIH, transport and motor fuels annual inflation rates, UK, December 2012 to December 2022 
-
-
-
-
-
-
-
-Source: Office for National Statistics – Consumer price inflation
-
-
-Download this chart Transport inflation eased in December 2022 
-Image
-
-.csv
-
-
-.xls
-
-
-The easing in motor fuels inflation in December 2022 was partially offset by annual price rises of 11.3% for passenger transport by road (largely because of coach fares) and 44.1% for passenger transport by air. The annual inflation rate for passenger transport by air of 44.1% is the largest recorded rate for this class in the national statistic series, which begins in January 2006, and in the constructed series, which begins in January 1989. 
-
-Read our latest Consumer Prices Index bulletin
-🠕 Back to the top
-
-
-</description>
-         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
-         <guid isPermaLink="false">45878293</guid>
-         <pubDate>Thu, 26 Jan 2023 09:08:44 +0000</pubDate>
-      </item>
+      <lastBuildDate>Thu, 26 Jan 2023 21:08:16 +0000</lastBuildDate>
       <item>
          <title>Rental price rises break records as house price growth slows </title>
          <link>https://www.ons.gov.uk/releases/indexofprivatehousingrentalpricesukdecember2022</link>
@@ -138,7 +44,7 @@ Read our latest bulletins on the UK House Price Index and the Index of Private H
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">66946553</guid>
-         <pubDate>Thu, 26 Jan 2023 09:08:44 +0000</pubDate>
+         <pubDate>Thu, 26 Jan 2023 21:08:16 +0000</pubDate>
       </item>
       <item>
          <title>Spending on debit cards continues to fall </title>
@@ -154,7 +60,7 @@ Read our latest Economic activity and social change in the UK, real-time indicat
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">1411301</guid>
-         <pubDate>Thu, 26 Jan 2023 09:08:44 +0000</pubDate>
+         <pubDate>Thu, 26 Jan 2023 21:08:16 +0000</pubDate>
       </item>
       <item>
          <title>Volume of sales fell again in December 2022 </title>
@@ -193,7 +99,7 @@ Read our full bulletin about Retail sales; Great Britain
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">5710714</guid>
-         <pubDate>Thu, 26 Jan 2023 09:08:44 +0000</pubDate>
+         <pubDate>Thu, 26 Jan 2023 21:08:16 +0000</pubDate>
       </item>
       <item>
          <title>December borrowing highest on record </title>
@@ -209,7 +115,7 @@ Read our latest bulletin on UK public sector finances
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">69011296</guid>
-         <pubDate>Thu, 26 Jan 2023 09:08:44 +0000</pubDate>
+         <pubDate>Thu, 26 Jan 2023 21:08:16 +0000</pubDate>
       </item>
       <item>
          <title>Just over a quarter of the UK workforce are night-time workers </title>
@@ -225,7 +131,7 @@ Read the full bulletin on the night-time economy
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">6397032</guid>
-         <pubDate>Thu, 26 Jan 2023 09:08:44 +0000</pubDate>
+         <pubDate>Thu, 26 Jan 2023 21:08:16 +0000</pubDate>
       </item>
       <item>
          <title>Out-of-town employment growing fastest </title>
@@ -264,7 +170,7 @@ Read our article on Employment trends outside cities and towns
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">66127125</guid>
-         <pubDate>Thu, 26 Jan 2023 09:08:44 +0000</pubDate>
+         <pubDate>Thu, 26 Jan 2023 21:08:16 +0000</pubDate>
       </item>
       <item>
          <title>Poorest see drop in median income</title>
@@ -303,7 +209,56 @@ Read our bulletin Household disposable income and inequality, UK: financial year
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">88436938</guid>
-         <pubDate>Thu, 26 Jan 2023 09:08:44 +0000</pubDate>
+         <pubDate>Thu, 26 Jan 2023 21:08:16 +0000</pubDate>
+      </item>
+      <item>
+         <title>Productivity above 2019 average in July to September 2022 </title>
+         <link>https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/articles/ukproductivityintroduction/latest</link>
+         <description>
+
+Productivity above 2019 average in July to September 2022 26 January 2023Labour productivity in the UK, measured as output per hour worked, was 1.6% higher than the 2019 (pre-coronavirus (COVID-19) pandemic) average in Quarter 3 (July to September) 2022. This growth was driven by a 1.2% fall in the number of hours worked, with output only seeing a marginal increase of 0.3%. Compared with Quarter 2 (April to June) 2022, output per hour increased by 0.1% in Quarter 3 2022. The manufacturing, construction, and administrative services industries made the biggest positive contribution to productivity growth compared with 2019. By contrast, the public services, and wholesale and retail industries negatively contributed to productivity growth. Public service productivity has remained mostly steady since spring 2021, but is still 7.4% below its pre-coronavirus levels. 
+
+Read our latest UK productivity overview
+🠕 Back to the top
+
+
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">36773181</guid>
+         <pubDate>Thu, 26 Jan 2023 21:08:16 +0000</pubDate>
+      </item>
+      <item>
+         <title>Trade with Russia has plummeted following sanctions</title>
+         <link>https://www.ons.gov.uk/releases/theimpactofsanctionsonuktradewithrussianovember2022</link>
+         <description>
+
+Trade with Russia has plummeted following sanctions26 January 2023UK trade with Russia has fallen to historically low levels following the Russian invasion of Ukraine in February 2022 and the subsequent Russian economic sanctions on trade from February 2022.The sanctions include bans on importing metals, fuel, wood products, high-end goods such as caviar, as well as further duties to a range of other goods.This has led to imports of goods from Russia falling to £18 million in November 2022, a decrease of 98.2% compared with the monthly average from the 12 months to February 2022. Imports of fuel from Russia remain historically low with only £9.2 million imported in November 2022, a fall of 98.1%.Imports of goods from Russia have decreased substantiallyImports of goods from Russia in millions, January 2021 to November 2022
+
+
+Embed code
+
+Embed this interactive
+
+
+Copy
+
+
+
+
+
+Download the data (xlsx, 18KB)Notes:
+
+The UK Government has applied a series of sanctions on imports of goods from Russia (PDF, 837KB), with the first import bans implemented on 14 April 2022.
+Exports of goods to Russia have decreased to £57 million, a fall of 77.4%. Exports of most commodities to Russia had decreased notably by November 2022. The largest decrease by value was seen in exports of machinery and transport equipment, which fell by £127.7 million (98.5%) when compared with the 12 months to February 2022.Medicinal and pharmaceutical products, which are exempt from export bans, made up 50.9% of total exports to Russia in November 2022, up from 9.5% in the 12 months to February 2022.The economic sanctions applied by the UK Government are likely to have driven the decreases in trade with Russia. However, self-sanctioning (whereby traders voluntarily seek alternatives to trading with Russian enterprises) is also likely a factor.
+
+Read our The impact of sanctions on UK trade with Russia: November 2022 article
+🠕 Back to the top
+
+
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">7789947</guid>
+         <pubDate>Thu, 26 Jan 2023 21:08:16 +0000</pubDate>
       </item>
    </channel>
 </rss>
