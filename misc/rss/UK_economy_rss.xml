@@ -6,62 +6,7 @@
       <description>RSS feed capturing updates to the ONS UK Economy blog</description>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>python-feedgen</generator>
-      <lastBuildDate>Fri, 27 Jan 2023 09:09:03 +0000</lastBuildDate>
-      <item>
-         <title>Rental price rises break records as house price growth slows </title>
-         <link>https://www.ons.gov.uk/releases/indexofprivatehousingrentalpricesukdecember2022</link>
-         <description>
-
-Rental price rises break records as house price growth slows 18 January 2023Private rental prices rose at record rates in all UK countries in the year to December 2022. Overall, private rental prices in the UK increased 4.2% during that time, up from 4.0% in the year to November 2022. This is the eighth consecutive month of record-breaking growth in rental prices. In the year to December 2022, private rental prices rose in England by 4.1% and in Wales by 3.5%. These were the largest increases recorded since the data series began in each of these countries in 2006 and 2010, respectively. Rental prices in Scotland grew by 4.4% in the year to December 2022, remaining at the record high set last month. 
-
-Private rental prices continue to rise faster in Scotland than England and Wales 
-Index of Private Housing Rental Prices percentage change over 12 months for countries of the UK, January 2012 to December 2022 
-
-
-
-
-
-
-
-Source: Office for National Statistics – Index of Private Housing Rental Prices 
-
-
-Download this chart Private rental prices continue to rise faster in Scotland than England and Wales 
-Image
-
-.csv
-
-
-.xls
-
-
-UK house price annual growth slowed in the year to November 2022, slowing to 10.3% from 12.4% in October 2022. The average UK house price was £295,000, which is £28,000 higher than the average price in November 2021. Of all English regions, annual house price percentage change in the year to November 2022 was highest in the North West (13.5%) and lowest in London (6.3%). Although London experienced the lowest annual percentage change of all English regions in the year to November 2022, Scotland experienced lower annual growth for the same period. Average house prices in Scotland increased by 5.5% in the year to November 2022, about half the growth rate of all other UK nations. Average house price growth in Scotland has generally slowed since April 2022. 
-
-Read our latest bulletins on the UK House Price Index and the Index of Private Housing Rental Prices
-🠕 Back to the top 
-
-
-</description>
-         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
-         <guid isPermaLink="false">66946553</guid>
-         <pubDate>Fri, 27 Jan 2023 09:09:03 +0000</pubDate>
-      </item>
-      <item>
-         <title>Spending on debit cards continues to fall </title>
-         <link>https://www.ons.gov.uk/releases/economicactivityandsocialchangeintheukrealtimeindicators19january2023</link>
-         <description>
-
-Spending on debit cards continues to fall 19 January 2023Debit card spending in the UK fell by 3 percentage points in the week to 15 January 2022, according to data from Revolut. The most notable category to see a drop in spending was “automotive fuel”, which saw the largest decrease of 19 percentage points. This category was 59 percentage points below the peak level reported for this category in mid-August 2022, coinciding with recent falls in the price of road fuel. Spending on “entertainment” and “pubs, restaurants and fast food” also continued to fall, decreasing by 8 percentage points and 7 percentage points, respectively, in line with usual seasonal reductions in consumer demand. However, spending in all categories was above the level reported in the equivalent period of the previous year. Spending in the “retail” category was 38 percentage points above the equivalent level of 2022. Users should note that these data are not adjusted for the potential effects of inflation on the value of transactions.
-
-Read our latest Economic activity and social change in the UK, real-time indicators bulletin
-🠕 Back to the top
-
-
-</description>
-         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
-         <guid isPermaLink="false">1411301</guid>
-         <pubDate>Fri, 27 Jan 2023 09:09:03 +0000</pubDate>
-      </item>
+      <lastBuildDate>Fri, 27 Jan 2023 21:07:36 +0000</lastBuildDate>
       <item>
          <title>Volume of sales fell again in December 2022 </title>
          <link>https://www.ons.gov.uk/releases/retailsalesgreatbritaindecember2022</link>
@@ -99,7 +44,7 @@ Read our full bulletin about Retail sales; Great Britain
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">5710714</guid>
-         <pubDate>Fri, 27 Jan 2023 09:09:03 +0000</pubDate>
+         <pubDate>Fri, 27 Jan 2023 21:07:36 +0000</pubDate>
       </item>
       <item>
          <title>December borrowing highest on record </title>
@@ -115,7 +60,7 @@ Read our latest bulletin on UK public sector finances
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">69011296</guid>
-         <pubDate>Fri, 27 Jan 2023 09:09:03 +0000</pubDate>
+         <pubDate>Fri, 27 Jan 2023 21:07:36 +0000</pubDate>
       </item>
       <item>
          <title>Just over a quarter of the UK workforce are night-time workers </title>
@@ -131,7 +76,7 @@ Read the full bulletin on the night-time economy
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">6397032</guid>
-         <pubDate>Fri, 27 Jan 2023 09:09:03 +0000</pubDate>
+         <pubDate>Fri, 27 Jan 2023 21:07:36 +0000</pubDate>
       </item>
       <item>
          <title>Out-of-town employment growing fastest </title>
@@ -170,7 +115,7 @@ Read our article on Employment trends outside cities and towns
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">66127125</guid>
-         <pubDate>Fri, 27 Jan 2023 09:09:03 +0000</pubDate>
+         <pubDate>Fri, 27 Jan 2023 21:07:36 +0000</pubDate>
       </item>
       <item>
          <title>Poorest see drop in median income</title>
@@ -209,7 +154,7 @@ Read our bulletin Household disposable income and inequality, UK: financial year
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">88436938</guid>
-         <pubDate>Fri, 27 Jan 2023 09:09:03 +0000</pubDate>
+         <pubDate>Fri, 27 Jan 2023 21:07:36 +0000</pubDate>
       </item>
       <item>
          <title>Productivity above 2019 average in July to September 2022 </title>
@@ -225,7 +170,7 @@ Read our latest UK productivity overview
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">36773181</guid>
-         <pubDate>Fri, 27 Jan 2023 09:09:03 +0000</pubDate>
+         <pubDate>Fri, 27 Jan 2023 21:07:36 +0000</pubDate>
       </item>
       <item>
          <title>Trade with Russia has plummeted following sanctions</title>
@@ -258,7 +203,68 @@ Read our The impact of sanctions on UK trade with Russia: November 2022 article
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">7789947</guid>
-         <pubDate>Fri, 27 Jan 2023 09:09:03 +0000</pubDate>
+         <pubDate>Fri, 27 Jan 2023 21:07:36 +0000</pubDate>
+      </item>
+      <item>
+         <title>Turnover falls among almost one in three trading businesses</title>
+         <link>https://www.ons.gov.uk/releases/businessinsightsandimpactontheukeconomy26january2023</link>
+         <description>
+
+Turnover falls among almost one in three trading businesses26 January 2023Almost a third (30%) of trading businesses reported their turnover had fallen in December 2022 compared with the previous month.This was highest among the wholesale and retail trade industry, with almost half (46%) reporting their turnover had fallen, according to data collected between 9 and 22 January 2023. Meanwhile, 13% said their turnover had increased.Costs are also increasing for some businesses. A quarter (25%) of businesses not permanently stopped trading said their staffing costs had increased over the previous three months.Around two in five (41%) trading businesses reported an increase in the prices of goods or services they had bought in December 2022 compared with the previous month.Almost a quarter (23%) of businesses reported their overall performance, including pricing, trading and workforce, had fallen in December 2022 compared with December 2021.
+
+Read our latest Business Insights and impact on the UK economy bulletin
+🠕 Back to the top
+
+
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">96502772</guid>
+         <pubDate>Fri, 27 Jan 2023 21:07:36 +0000</pubDate>
+      </item>
+      <item>
+         <title>Fifth of adults affected by rail strikes</title>
+         <link>https://www.ons.gov.uk/releases/publicopinionsandsocialtrendsgreatbritain11to22january2023</link>
+         <description>
+
+Fifth of adults affected by rail strikes27 January 2023Around one in five adults in Great Britain (19%) say their travel plans had been disrupted by rail strikes in recent weeks. That is according to survey data collected between 11 and 22 January 2023, which show a similar proportion (18%) said the same in the previous survey period covering Christmas and New Year. Data collected between 7 to 18 December 2022 also show that 31% of working adults with children in school said they would have to work fewer hours if schools closed because of strike action, while 28% said that they would not be able to work. However, 41% said their work would not be affected. In the latest survey period, more than 9 in 10 adults (93%) said the cost of living is an important issue facing the UK. 
+
+The cost of living is a primary concern for British adults 
+Proportion of all adults in Great Britain, by issue, 11 to 22 January 2023 
+
+
+
+
+
+
+
+Source: Office for National Statistics – Opinions and Lifestyle Survey
+
+Notes:
+
+Question: &quot;What do you think are important issues facing the UK today?&quot;
+Base: all adults.
+Respondents were able to choose more than one option.
+
+
+Download this chart The cost of living is a primary concern for British adults 
+Image
+
+.csv
+
+
+.xls
+
+
+However, that was closely followed by the NHS with 89% of adults saying it was an important issue, which was up from 81% among those asked a month earlier. Around three in four (76%) said the economy, 59% said climate change and the environment, while 45% reported industrial action as an important issue in the UK today. 
+
+Read our latest Public opinions and social trends, Great Britain bulletin
+🠕 Back to the top
+
+
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">73343242</guid>
+         <pubDate>Fri, 27 Jan 2023 21:07:36 +0000</pubDate>
       </item>
    </channel>
 </rss>
