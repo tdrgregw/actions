@@ -3,9 +3,9 @@ name: run main.py
 on:
   schedule:
     # - cron: '*/5 * * * *' # Every 5 minutes
-    # - cron: '0 9 * * *' # Every day @ 9am
+     - cron: '0 9 * * *' # Every day @ 9am
     # - cron: '0 * * * *' # At minute 0 (i.e. once an hour)
-      - cron: '0 9,21 * * *' # Twice a day @9am and 21pm  
+    #  - cron: '0 9,21 * * *' # Twice a day @9am and 21pm  
 
 jobs:
   build:
