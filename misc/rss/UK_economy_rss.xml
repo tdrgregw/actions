@@ -6,46 +6,7 @@
       <description>RSS feed capturing updates to the ONS UK Economy blog</description>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>python-feedgen</generator>
-      <lastBuildDate>Tue, 31 Jan 2023 09:16:15 +0000</lastBuildDate>
-      <item>
-         <title>Volume of sales fell again in December 2022 </title>
-         <link>https://www.ons.gov.uk/releases/retailsalesgreatbritaindecember2022</link>
-         <description>
-
-Volume of sales fell again in December 2022 20 January 2023Retail sales volumes (quantity bought) fell by 1.0% in December 2022, following a fall of 0.5% in November. December’s drop took sales volumes to 1.7% below the pre-coronavirus (COVID-19) level of February 2020. However, in terms of value spent, retail sales had risen 13.6% over the same period. 
-
-Retail sales volumes and values diverge 
-Retail sales volume and value, seasonally adjusted, Great Britain, December 2019 to December 2022
-
-
-
-
-
-
-
-Source: Office for National Statistics – Monthly Business Survey, Retail Sales Inquiry
-
-
-Download this chart Retail sales volumes and values diverge 
-Image
-
-.csv
-
-
-.xls
-
-
-The volume sold at food stores fell by 0.3% in December 2022, after a rise of 1.0% in November, when customers may have stocked up early for Christmas. The latest decline continues a downward trend since the lifting of restrictions on hospitality in summer 2021. The volume sold at non-food stores fell by 2.1% in December 2022. Department stores’ sales volumes fell by 3.1% after a rise of 2.1% in November when retailers reported longer Black Friday sales. Other non-food stores reported a monthly fall in sales volumes of 6.2% because of strong falls in cosmetics stores, sports equipment, games and toys stores and watches and jewellery stores. 
-
-Read our full bulletin about Retail sales; Great Britain
-🠕 Back to the top
-
-
-</description>
-         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
-         <guid isPermaLink="false">5710714</guid>
-         <pubDate>Tue, 31 Jan 2023 09:16:15 +0000</pubDate>
-      </item>
+      <lastBuildDate>Wed, 01 Feb 2023 09:16:32 +0000</lastBuildDate>
       <item>
          <title>December borrowing highest on record </title>
          <link>https://www.ons.gov.uk/releases/publicsectorfinancesukdecember2022</link>
@@ -60,7 +21,7 @@ Read our latest bulletin on UK public sector finances
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">69011296</guid>
-         <pubDate>Tue, 31 Jan 2023 09:16:15 +0000</pubDate>
+         <pubDate>Wed, 01 Feb 2023 09:16:32 +0000</pubDate>
       </item>
       <item>
          <title>Just over a quarter of the UK workforce are night-time workers </title>
@@ -76,7 +37,7 @@ Read the full bulletin on the night-time economy
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">6397032</guid>
-         <pubDate>Tue, 31 Jan 2023 09:16:15 +0000</pubDate>
+         <pubDate>Wed, 01 Feb 2023 09:16:32 +0000</pubDate>
       </item>
       <item>
          <title>Out-of-town employment growing fastest </title>
@@ -115,7 +76,7 @@ Read our article on Employment trends outside cities and towns
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">66127125</guid>
-         <pubDate>Tue, 31 Jan 2023 09:16:15 +0000</pubDate>
+         <pubDate>Wed, 01 Feb 2023 09:16:32 +0000</pubDate>
       </item>
       <item>
          <title>Poorest see drop in median income</title>
@@ -154,7 +115,7 @@ Read our bulletin Household disposable income and inequality, UK: financial year
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">88436938</guid>
-         <pubDate>Tue, 31 Jan 2023 09:16:15 +0000</pubDate>
+         <pubDate>Wed, 01 Feb 2023 09:16:32 +0000</pubDate>
       </item>
       <item>
          <title>Productivity above 2019 average in July to September 2022 </title>
@@ -170,7 +131,7 @@ Read our latest UK productivity overview
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">36773181</guid>
-         <pubDate>Tue, 31 Jan 2023 09:16:15 +0000</pubDate>
+         <pubDate>Wed, 01 Feb 2023 09:16:32 +0000</pubDate>
       </item>
       <item>
          <title>Trade with Russia has plummeted following sanctions</title>
@@ -203,7 +164,7 @@ Read our The impact of sanctions on UK trade with Russia: November 2022 article
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">7789947</guid>
-         <pubDate>Tue, 31 Jan 2023 09:16:15 +0000</pubDate>
+         <pubDate>Wed, 01 Feb 2023 09:16:32 +0000</pubDate>
       </item>
       <item>
          <title>Turnover falls among almost one in three trading businesses</title>
@@ -219,7 +180,7 @@ Read our latest Business Insights and impact on the UK economy bulletin
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">96502772</guid>
-         <pubDate>Tue, 31 Jan 2023 09:16:15 +0000</pubDate>
+         <pubDate>Wed, 01 Feb 2023 09:16:32 +0000</pubDate>
       </item>
       <item>
          <title>Fifth of adults affected by rail strikes</title>
@@ -264,7 +225,7 @@ Read our latest Public opinions and social trends, Great Britain bulletin
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">73343242</guid>
-         <pubDate>Tue, 31 Jan 2023 09:16:15 +0000</pubDate>
+         <pubDate>Wed, 01 Feb 2023 09:16:32 +0000</pubDate>
       </item>
       <item>
          <title>One in seven worried about running out of food </title>
@@ -303,7 +264,23 @@ Read our latest bulletin on the impact of winter pressures on adults in Great Br
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">80013284</guid>
-         <pubDate>Tue, 31 Jan 2023 09:16:15 +0000</pubDate>
+         <pubDate>Wed, 01 Feb 2023 09:16:32 +0000</pubDate>
+      </item>
+      <item>
+         <title>Cost of living could be pushing up UK residents’ spending abroad</title>
+         <link>https://www.ons.gov.uk/releases/overseastravelandtourismjulytoseptember2022</link>
+         <description>
+
+Cost of living could be pushing up UK residents’ spending abroad31 January 2023People are taking fewer trips abroad compared with before the coronavirus (COVID-19) pandemic, but the total amount spent overseas is almost as high.UK residents made 24.9 million visits abroad between July and September 2022, the latest estimates from our International Passenger Survey (IPS) show.That was around triple the 8.1 million visits during the same period of 2021, although the earlier figure excludes data on Eurotunnel travel because of pandemic-related restrictions on interviews.However, it was still 17% below the 30.0 million visits between July and September 2019, before the pandemic affected international travel.While the estimated number of visits abroad was still well below pre-pandemic levels, the amount spent was similar.UK residents spent £22.1 billion during visits abroad between July and September 2022, which was close to the £21.9 billion spent during the same period in 2019. This could be an indication of the increased cost of living globally.A similar pattern was seen with overseas residents’ visits to the UK. The 10.0 million visits made between July and September 2022 were down 16% from 11.9 million during the same period in 2019. Meanwhile, spending was similar for both periods, at £9.2 billion and £9.1 billion, respectively.
+
+Read our Overseas travel and tourism: July to September 2022 bulletin
+🠕 Back to the top
+
+
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">55334177</guid>
+         <pubDate>Wed, 01 Feb 2023 09:16:32 +0000</pubDate>
       </item>
    </channel>
 </rss>
