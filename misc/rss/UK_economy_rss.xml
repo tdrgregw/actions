@@ -6,23 +6,7 @@
       <description>RSS feed capturing updates to the ONS UK Economy blog</description>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>python-feedgen</generator>
-      <lastBuildDate>Fri, 03 Feb 2023 09:16:24 +0000</lastBuildDate>
-      <item>
-         <title>December borrowing highest on record </title>
-         <link>https://www.ons.gov.uk/releases/publicsectorfinancesukdecember2022</link>
-         <description>
-
-December borrowing highest on record 24 January 2023The public sector spent more than it received in taxes and other income in December 2022, requiring it to borrow £27.4 billion. That was the highest December figure since monthly records began and was largely driven by a sharp rise in government spending on energy support schemes and an increase in debt interest payable. The interest payable on central government debt for the month was £17.3 billion, which is the highest for December on record and the second largest in any single month behind the £20.0 billion recorded in June 2022. The interest payable on central government debt increases with inflation, as a significant chunk of the debt is linked to the Retail Prices Index. That means recent substantial rises in energy prices have pushed interest costs to record levels. The £27.4 billion additional borrowing in December brings the total borrowed in the financial year-to-December 2022 to £128.1 billion, which was £5.1 billion more than that borrowed in the same period of 2021 but £2.7 billion less than the official forecast. Debt at the end of December was £2.5 trillion (£2,503.6 billion) or 99.5% of the UK’s annual gross domestic product (GDP). 
-
-Read our latest bulletin on UK public sector finances 
-🠕 Back to the top
-
-
-</description>
-         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
-         <guid isPermaLink="false">69011296</guid>
-         <pubDate>Fri, 03 Feb 2023 09:16:24 +0000</pubDate>
-      </item>
+      <lastBuildDate>Sat, 04 Feb 2023 09:14:36 +0000</lastBuildDate>
       <item>
          <title>Just over a quarter of the UK workforce are night-time workers </title>
          <link>https://www.ons.gov.uk/releases/exploringthenighttimeeconomy</link>
@@ -37,7 +21,7 @@ Read the full bulletin on the night-time economy
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">6397032</guid>
-         <pubDate>Fri, 03 Feb 2023 09:16:24 +0000</pubDate>
+         <pubDate>Sat, 04 Feb 2023 09:14:36 +0000</pubDate>
       </item>
       <item>
          <title>Out-of-town employment growing fastest </title>
@@ -76,7 +60,7 @@ Read our article on Employment trends outside cities and towns
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">66127125</guid>
-         <pubDate>Fri, 03 Feb 2023 09:16:24 +0000</pubDate>
+         <pubDate>Sat, 04 Feb 2023 09:14:36 +0000</pubDate>
       </item>
       <item>
          <title>Poorest see drop in median income</title>
@@ -115,7 +99,7 @@ Read our bulletin Household disposable income and inequality, UK: financial year
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">88436938</guid>
-         <pubDate>Fri, 03 Feb 2023 09:16:24 +0000</pubDate>
+         <pubDate>Sat, 04 Feb 2023 09:14:36 +0000</pubDate>
       </item>
       <item>
          <title>Productivity above 2019 average in July to September 2022 </title>
@@ -131,7 +115,7 @@ Read our latest UK productivity overview
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">36773181</guid>
-         <pubDate>Fri, 03 Feb 2023 09:16:24 +0000</pubDate>
+         <pubDate>Sat, 04 Feb 2023 09:14:36 +0000</pubDate>
       </item>
       <item>
          <title>Trade with Russia has plummeted following sanctions</title>
@@ -164,7 +148,7 @@ Read our The impact of sanctions on UK trade with Russia: November 2022 article
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">7789947</guid>
-         <pubDate>Fri, 03 Feb 2023 09:16:24 +0000</pubDate>
+         <pubDate>Sat, 04 Feb 2023 09:14:36 +0000</pubDate>
       </item>
       <item>
          <title>Turnover falls among almost one in three trading businesses</title>
@@ -180,7 +164,7 @@ Read our latest Business Insights and impact on the UK economy bulletin
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">96502772</guid>
-         <pubDate>Fri, 03 Feb 2023 09:16:24 +0000</pubDate>
+         <pubDate>Sat, 04 Feb 2023 09:14:36 +0000</pubDate>
       </item>
       <item>
          <title>Fifth of adults affected by rail strikes</title>
@@ -225,7 +209,7 @@ Read our latest Public opinions and social trends, Great Britain bulletin
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">73343242</guid>
-         <pubDate>Fri, 03 Feb 2023 09:16:24 +0000</pubDate>
+         <pubDate>Sat, 04 Feb 2023 09:14:36 +0000</pubDate>
       </item>
       <item>
          <title>One in seven worried about running out of food </title>
@@ -264,7 +248,7 @@ Read our latest bulletin on the impact of winter pressures on adults in Great Br
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">80013284</guid>
-         <pubDate>Fri, 03 Feb 2023 09:16:24 +0000</pubDate>
+         <pubDate>Sat, 04 Feb 2023 09:14:36 +0000</pubDate>
       </item>
       <item>
          <title>Cost of living could be pushing up UK residents’ spending abroad</title>
@@ -280,7 +264,37 @@ Read our Overseas travel and tourism: July to September 2022 bulletin
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">55334177</guid>
-         <pubDate>Fri, 03 Feb 2023 09:16:24 +0000</pubDate>
+         <pubDate>Sat, 04 Feb 2023 09:14:36 +0000</pubDate>
+      </item>
+      <item>
+         <title>Debit card spending increased in late January</title>
+         <link>https://www.ons.gov.uk/releases/overseastravelandtourismjulytoseptember2022</link>
+         <description>
+
+Debit card spending increased in late January2 February 2023Revolut debit card spending increased by 11 percentage points in the week to 29 January 2023, yet spending on &quot;entertainment&quot; and &quot;pubs, restaurants and fast food&quot; remains below the pre-coronavirus (COVID-19) level. Data from retail experts, Springboard, suggest that overall retail footfall also increased but remains at 90% of the level seen in the equivalent week of 2019. Footfall in all categories remains below the 2019 level with retail parks the closest at 96%. In the week to 29 January 2023, overall weekly retail footfall was 90% of the level in the equivalent week of 2019Volume of daily retail footfall, percentage compared with the equivalent week of 2019, 1 January 2020 to 29 January 2023, UK
+
+
+Embed code
+
+Embed this interactive
+
+
+Copy
+
+
+
+
+
+The preceding seven-day rolling average gas price decreased by 2% in the week to 29 January 2023, according to data from the National Grid. This follows a sharp decrease since the start of the year, in line with usual seasonal expectations. According to BICS data, less than a fifth (19%) of businesses reported energy prices are their main concern in February 2023, down from 22% for January 2023. According to jobs search engine, Adzuna, the total number of online job adverts rose for the third consecutive week, increasing by 5% when compared with the previous period, however, it is 19% lower than the equivalent week of 2022. 
+
+Read our Economic activity and social change in the UK, real-time indicators : 3 February 2023 bulletin
+🠕 Back to the top
+
+
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">6339328</guid>
+         <pubDate>Sat, 04 Feb 2023 09:14:36 +0000</pubDate>
       </item>
    </channel>
 </rss>
