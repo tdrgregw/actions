@@ -6,7 +6,7 @@
       <description>RSS feed capturing updates to the ONS UK Economy blog</description>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>python-feedgen</generator>
-      <lastBuildDate>Sat, 04 Feb 2023 09:14:36 +0000</lastBuildDate>
+      <lastBuildDate>Sun, 05 Feb 2023 09:14:50 +0000</lastBuildDate>
       <item>
          <title>Just over a quarter of the UK workforce are night-time workers </title>
          <link>https://www.ons.gov.uk/releases/exploringthenighttimeeconomy</link>
@@ -21,7 +21,7 @@ Read the full bulletin on the night-time economy
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">6397032</guid>
-         <pubDate>Sat, 04 Feb 2023 09:14:36 +0000</pubDate>
+         <pubDate>Sun, 05 Feb 2023 09:14:50 +0000</pubDate>
       </item>
       <item>
          <title>Out-of-town employment growing fastest </title>
@@ -60,7 +60,7 @@ Read our article on Employment trends outside cities and towns
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">66127125</guid>
-         <pubDate>Sat, 04 Feb 2023 09:14:36 +0000</pubDate>
+         <pubDate>Sun, 05 Feb 2023 09:14:50 +0000</pubDate>
       </item>
       <item>
          <title>Poorest see drop in median income</title>
@@ -99,7 +99,7 @@ Read our bulletin Household disposable income and inequality, UK: financial year
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">88436938</guid>
-         <pubDate>Sat, 04 Feb 2023 09:14:36 +0000</pubDate>
+         <pubDate>Sun, 05 Feb 2023 09:14:50 +0000</pubDate>
       </item>
       <item>
          <title>Productivity above 2019 average in July to September 2022 </title>
@@ -115,7 +115,7 @@ Read our latest UK productivity overview
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">36773181</guid>
-         <pubDate>Sat, 04 Feb 2023 09:14:36 +0000</pubDate>
+         <pubDate>Sun, 05 Feb 2023 09:14:50 +0000</pubDate>
       </item>
       <item>
          <title>Trade with Russia has plummeted following sanctions</title>
@@ -148,7 +148,7 @@ Read our The impact of sanctions on UK trade with Russia: November 2022 article
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">7789947</guid>
-         <pubDate>Sat, 04 Feb 2023 09:14:36 +0000</pubDate>
+         <pubDate>Sun, 05 Feb 2023 09:14:50 +0000</pubDate>
       </item>
       <item>
          <title>Turnover falls among almost one in three trading businesses</title>
@@ -164,7 +164,7 @@ Read our latest Business Insights and impact on the UK economy bulletin
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">96502772</guid>
-         <pubDate>Sat, 04 Feb 2023 09:14:36 +0000</pubDate>
+         <pubDate>Sun, 05 Feb 2023 09:14:50 +0000</pubDate>
       </item>
       <item>
          <title>Fifth of adults affected by rail strikes</title>
@@ -209,7 +209,7 @@ Read our latest Public opinions and social trends, Great Britain bulletin
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">73343242</guid>
-         <pubDate>Sat, 04 Feb 2023 09:14:36 +0000</pubDate>
+         <pubDate>Sun, 05 Feb 2023 09:14:50 +0000</pubDate>
       </item>
       <item>
          <title>One in seven worried about running out of food </title>
@@ -248,7 +248,7 @@ Read our latest bulletin on the impact of winter pressures on adults in Great Br
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">80013284</guid>
-         <pubDate>Sat, 04 Feb 2023 09:14:36 +0000</pubDate>
+         <pubDate>Sun, 05 Feb 2023 09:14:50 +0000</pubDate>
       </item>
       <item>
          <title>Cost of living could be pushing up UK residents’ spending abroad</title>
@@ -264,7 +264,7 @@ Read our Overseas travel and tourism: July to September 2022 bulletin
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">55334177</guid>
-         <pubDate>Sat, 04 Feb 2023 09:14:36 +0000</pubDate>
+         <pubDate>Sun, 05 Feb 2023 09:14:50 +0000</pubDate>
       </item>
       <item>
          <title>Debit card spending increased in late January</title>
@@ -294,7 +294,7 @@ Read our Economic activity and social change in the UK, real-time indicators : 3
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">6339328</guid>
-         <pubDate>Sat, 04 Feb 2023 09:14:36 +0000</pubDate>
+         <pubDate>Sun, 05 Feb 2023 09:14:50 +0000</pubDate>
       </item>
    </channel>
 </rss>
