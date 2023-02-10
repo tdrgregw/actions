@@ -6,166 +6,7 @@
       <description>RSS feed capturing updates to the ONS UK Economy blog</description>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>python-feedgen</generator>
-      <lastBuildDate>Thu, 09 Feb 2023 09:16:46 +0000</lastBuildDate>
-      <item>
-         <title>Just over a quarter of the UK workforce are night-time workers </title>
-         <link>https://www.ons.gov.uk/releases/exploringthenighttimeeconomy</link>
-         <description>
-
-Just over a quarter of the UK workforce are night-time workers 24 January 2023The total number of night-time workers went from 8.6 million in 2021 to 8.7 million in 2022 but has fallen from 9.5 million in 2016. Someone is deemed a night-time worker if they &quot;usually&quot; work either in the evening or the night, irrespective of whether they also &quot;usually&quot; work in the day. By this definition, 26.7% of the workforce were night-time workers in 2022, down from a maximum of 30.8% in 2014. The largest numbers of night-time workers are in the human health and social work activities sector, at 4.3% of the entire UK workforce. This is followed by accommodation and food service activities and wholesale and retail, where night-time workers make up 2.7% of all UK workers. The night-time economy relies heavily on people born outside of the UK: between 2012 and 2022, the number of night-time workers born outside of the UK rose by 32.6% to 2.0 million. In the 24-hour health and personal services grouping of industries, this number rose by 69.1% to 0.5 million. 
-
-Read the full bulletin on the night-time economy
-🠕 Back to the top
-
-
-</description>
-         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
-         <guid isPermaLink="false">6397032</guid>
-         <pubDate>Thu, 09 Feb 2023 09:16:46 +0000</pubDate>
-      </item>
-      <item>
-         <title>Out-of-town employment growing fastest </title>
-         <link>https://www.ons.gov.uk/releases/employmenttrendsoutsidecitiesandtownsenglandandwales2009to2021</link>
-         <description>
-
-Out-of-town employment growing fastest 24 January 2023Out-of-town areas have seen employment grow at higher rates than in towns and large cities over the last decade. Employment in out-of-town locations across England and Wales grew by 20% between 2009 and 2021, compared with 7% in towns and 14% in large cities (excluding London). 
-
-Out-of-town employment grew at triple the rate of towns 
-Growth in employment by area type, 2009 to 2021, England and Wales 
-
-
-
-
-
-
-
-Source: Office for National Statistics – Business Register and Employment Survey (BRES)
-
-
-Download this chart Out-of-town employment grew at triple the rate of towns 
-Image
-
-.csv
-
-
-.xls
-
-
-This was the case in most parts of England and Wales, with the growth rate for employment greater out of town in 140 out of 173 locations, known as Travel to Work Areas. However, the vast majority (87%) of employment growth in out-of-town locations happened within 2 kilometres of town or city boundaries, meaning it is likely to have included growth in business and retail parks. Overall, towns accounted for 52% of total employment in England and Wales in 2021, compared with 14% for out-of-town locations, 19% in London and 15% in large cities. 
-
-Read our article on Employment trends outside cities and towns 
-🠕 Back to the top
-
-
-</description>
-         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
-         <guid isPermaLink="false">66127125</guid>
-         <pubDate>Thu, 09 Feb 2023 09:16:46 +0000</pubDate>
-      </item>
-      <item>
-         <title>Poorest see drop in median income</title>
-         <link>https://www.ons.gov.uk/releases/householddisposableincomeandinequalityukfinancialyearending2022</link>
-         <description>
-
-Poorest see drop in median income25 January 2023The median household disposable income of the poorest fifth of the UK population has decreased to £14,500 – a 3.8% drop.For the richest fifth of the population, income increased during the same period, the financial year ending (FYE) 2022. It went up by 1.6% to £66,000.The increase for the richest fifth of people followed a reduction of 1.0% during FYE 2021. Meanwhile, in the 10 years leading up to FYE 2022, income in this group increased at an average rate of 1.2% per year. In FYE 2022, median household disposable income in the UK was £32,300, a decrease of 0.6% from FYE 2021, based on estimates from our Household Finances Survey.
-
-Median disposable income fell for the poorest and rose for the richest in FYE 2022
-Median equivalised household disposable income of individuals by quintile group, FYE 2020, FYE 2021 and FYE 2022
-
-
-
-
-
-
-
-Source: Office for National Statistics – Household Finances Survey
-
-
-Download this chart Median disposable income fell for the poorest and rose for the richest in FYE 2022
-Image
-
-.csv
-
-
-.xls
-
-
-Income estimates for FYE 2021 and FYE 2022 were affected by the coronavirus (COVID-19) pandemic and the range of financial support measures introduced to alleviate potential financial pressures.
-
-Read our bulletin Household disposable income and inequality, UK: financial year ending 2022
-🠕 Back to the top
-
-
-</description>
-         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
-         <guid isPermaLink="false">88436938</guid>
-         <pubDate>Thu, 09 Feb 2023 09:16:46 +0000</pubDate>
-      </item>
-      <item>
-         <title>Productivity above 2019 average in July to September 2022 </title>
-         <link>https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/articles/ukproductivityintroduction/latest</link>
-         <description>
-
-Productivity above 2019 average in July to September 2022 26 January 2023Labour productivity in the UK, measured as output per hour worked, was 1.6% higher than the 2019 (pre-coronavirus (COVID-19) pandemic) average in Quarter 3 (July to September) 2022. This growth was driven by a 1.2% fall in the number of hours worked, with output only seeing a marginal increase of 0.3%. Compared with Quarter 2 (April to June) 2022, output per hour increased by 0.1% in Quarter 3 2022. The manufacturing, construction, and administrative services industries made the biggest positive contribution to productivity growth compared with 2019. By contrast, the public services, and wholesale and retail industries negatively contributed to productivity growth. Public service productivity has remained mostly steady since spring 2021, but is still 7.4% below its pre-coronavirus levels. 
-
-Read our latest UK productivity overview
-🠕 Back to the top
-
-
-</description>
-         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
-         <guid isPermaLink="false">36773181</guid>
-         <pubDate>Thu, 09 Feb 2023 09:16:46 +0000</pubDate>
-      </item>
-      <item>
-         <title>Trade with Russia has plummeted following sanctions</title>
-         <link>https://www.ons.gov.uk/releases/theimpactofsanctionsonuktradewithrussianovember2022</link>
-         <description>
-
-Trade with Russia has plummeted following sanctions26 January 2023UK trade with Russia has fallen to historically low levels following the Russian invasion of Ukraine in February 2022 and the subsequent Russian economic sanctions on trade from February 2022.The sanctions include bans on importing metals, fuel, wood products, high-end goods such as caviar, as well as further duties to a range of other goods.This has led to imports of goods from Russia falling to £18 million in November 2022, a decrease of 98.2% compared with the monthly average from the 12 months to February 2022. Imports of fuel from Russia remain historically low with only £9.2 million imported in November 2022, a fall of 98.1%.Imports of goods from Russia have decreased substantiallyImports of goods from Russia in millions, January 2021 to November 2022
-
-
-Embed code
-
-Embed this interactive
-
-
-Copy
-
-
-
-
-
-Download the data (xlsx, 18KB)Notes:
-
-The UK Government has applied a series of sanctions on imports of goods from Russia (PDF, 837KB), with the first import bans implemented on 14 April 2022.
-Exports of goods to Russia have decreased to £57 million, a fall of 77.4%. Exports of most commodities to Russia had decreased notably by November 2022. The largest decrease by value was seen in exports of machinery and transport equipment, which fell by £127.7 million (98.5%) when compared with the 12 months to February 2022.Medicinal and pharmaceutical products, which are exempt from export bans, made up 50.9% of total exports to Russia in November 2022, up from 9.5% in the 12 months to February 2022.The economic sanctions applied by the UK Government are likely to have driven the decreases in trade with Russia. However, self-sanctioning (whereby traders voluntarily seek alternatives to trading with Russian enterprises) is also likely a factor.
-
-Read our The impact of sanctions on UK trade with Russia: November 2022 article
-🠕 Back to the top
-
-
-</description>
-         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
-         <guid isPermaLink="false">7789947</guid>
-         <pubDate>Thu, 09 Feb 2023 09:16:46 +0000</pubDate>
-      </item>
-      <item>
-         <title>Turnover falls among almost one in three trading businesses</title>
-         <link>https://www.ons.gov.uk/releases/businessinsightsandimpactontheukeconomy26january2023</link>
-         <description>
-
-Turnover falls among almost one in three trading businesses26 January 2023Almost a third (30%) of trading businesses reported their turnover had fallen in December 2022 compared with the previous month.This was highest among the wholesale and retail trade industry, with almost half (46%) reporting their turnover had fallen, according to data collected between 9 and 22 January 2023. Meanwhile, 13% said their turnover had increased.Costs are also increasing for some businesses. A quarter (25%) of businesses not permanently stopped trading said their staffing costs had increased over the previous three months.Around two in five (41%) trading businesses reported an increase in the prices of goods or services they had bought in December 2022 compared with the previous month.Almost a quarter (23%) of businesses reported their overall performance, including pricing, trading and workforce, had fallen in December 2022 compared with December 2021.
-
-Read our latest Business Insights and impact on the UK economy bulletin
-🠕 Back to the top
-
-
-</description>
-         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
-         <guid isPermaLink="false">96502772</guid>
-         <pubDate>Thu, 09 Feb 2023 09:16:46 +0000</pubDate>
-      </item>
+      <lastBuildDate>Fri, 10 Feb 2023 09:17:03 +0000</lastBuildDate>
       <item>
          <title>Fifth of adults affected by rail strikes</title>
          <link>https://www.ons.gov.uk/releases/publicopinionsandsocialtrendsgreatbritain11to22january2023</link>
@@ -209,7 +50,7 @@ Read our latest Public opinions and social trends, Great Britain bulletin
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">73343242</guid>
-         <pubDate>Thu, 09 Feb 2023 09:16:46 +0000</pubDate>
+         <pubDate>Fri, 10 Feb 2023 09:17:03 +0000</pubDate>
       </item>
       <item>
          <title>One in seven worried about running out of food </title>
@@ -248,7 +89,7 @@ Read our latest bulletin on the impact of winter pressures on adults in Great Br
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">80013284</guid>
-         <pubDate>Thu, 09 Feb 2023 09:16:46 +0000</pubDate>
+         <pubDate>Fri, 10 Feb 2023 09:17:03 +0000</pubDate>
       </item>
       <item>
          <title>Cost of living could be pushing up UK residents’ spending abroad</title>
@@ -264,37 +105,7 @@ Read our Overseas travel and tourism: July to September 2022 bulletin
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">55334177</guid>
-         <pubDate>Thu, 09 Feb 2023 09:16:46 +0000</pubDate>
-      </item>
-      <item>
-         <title>Debit card spending increased in late January</title>
-         <link>https://www.ons.gov.uk/releases/overseastravelandtourismjulytoseptember2022</link>
-         <description>
-
-Debit card spending increased in late January2 February 2023Revolut debit card spending increased by 11 percentage points in the week to 29 January 2023, yet spending on &quot;entertainment&quot; and &quot;pubs, restaurants and fast food&quot; remains below the pre-coronavirus (COVID-19) level. Data from retail experts, Springboard, suggest that overall retail footfall also increased but remains at 90% of the level seen in the equivalent week of 2019. Footfall in all categories remains below the 2019 level with retail parks the closest at 96%. In the week to 29 January 2023, overall weekly retail footfall was 90% of the level in the equivalent week of 2019Volume of daily retail footfall, percentage compared with the equivalent week of 2019, 1 January 2020 to 29 January 2023, UK
-
-
-Embed code
-
-Embed this interactive
-
-
-Copy
-
-
-
-
-
-The preceding seven-day rolling average gas price decreased by 2% in the week to 29 January 2023, according to data from the National Grid. This follows a sharp decrease since the start of the year, in line with usual seasonal expectations. According to BICS data, less than a fifth (19%) of businesses reported energy prices are their main concern in February 2023, down from 22% for January 2023. According to jobs search engine, Adzuna, the total number of online job adverts rose for the third consecutive week, increasing by 5% when compared with the previous period, however, it is 19% lower than the equivalent week of 2022. 
-
-Read our Economic activity and social change in the UK, real-time indicators : 3 February 2023 bulletin
-🠕 Back to the top
-
-
-</description>
-         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
-         <guid isPermaLink="false">6339328</guid>
-         <pubDate>Thu, 09 Feb 2023 09:16:46 +0000</pubDate>
+         <pubDate>Fri, 10 Feb 2023 09:17:03 +0000</pubDate>
       </item>
       <item>
          <title>Largest negative terms-of-trade effect since 1970s</title>
@@ -337,7 +148,68 @@ Read our article on The Purchasing Power of GDP, UK: 2022
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">51289695</guid>
-         <pubDate>Thu, 09 Feb 2023 09:16:46 +0000</pubDate>
+         <pubDate>Fri, 10 Feb 2023 09:17:03 +0000</pubDate>
+      </item>
+      <item>
+         <title>Energy prices are main concern of one in five businesses</title>
+         <link>https://www.ons.gov.uk/releases/economicactivityandsocialchangeintheukrealtimeindicators9february2023</link>
+         <description>
+
+Energy prices are main concern of one in five businesses9 February 2023Nearly one in five (19%) businesses reported energy prices were their main concern for February 2023, when asked between 23 January and 5 February 2023. This was followed by inflation of goods and services prices (16%) and falling demand for goods and services (13%). In late January 2023, nearly two in five (37%) businesses had taken some form of action to reduce their energy costs in the last three months, with 23% of those businesses reporting they had switched electrical equipment off or on standby more than usual when not in use. Of the 45% of businesses that were not planning to reduce their energy costs in the next three months, 60% said their business’s energy efficiency had already been optimised. 
+
+Read our full Business insights and impact on the UK economy bulletin
+🠕 Back to the top
+
+Spending up in pubs and restaurants in early February9 February 2023Debit card spending in pubs and restaurants and on fast food rose above levels recorded before the coronavirus (COVID-19) pandemic in the week to 5 February 2023.That was the first increase above the pre-pandemic baseline (the average for February 2020) since early December 2022, according to data collected by financial technology company Revolut.Debit card spending also rose in all categories monitored by the company when compared with the equivalent week of 2022. Spending was 47 percentage points higher on retail, and 39 percentage points greater for vehicle fuel.It is important to note that the figures are not adjusted for the potential effects of inflation (the rising price of goods and services) on the value of transactions.A separate indicator of debit and credit card spending, known as the CHAPS monthly index, shows that work-related spending (including on road fuel) in January 2023 was 15 percentage points higher than a year earlier.That was the largest increase of any category and was followed by “social” and “staple” spending, which both increased by 11 percentage points.Figures from job search engine Adzuna show that the number of online job adverts on 3 February 2023 was 21% lower than the number seen a year earlier.
+
+Read our Economic activity and social change in the UK, real-time indicators: 9 February 2023 bulletin
+🠕 Back to the top
+
+
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">66316726</guid>
+         <pubDate>Fri, 10 Feb 2023 09:17:03 +0000</pubDate>
+      </item>
+      <item>
+         <title>UK GDP estimated to have fallen by 0.5% in December 2022</title>
+         <link>https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpmonthlyestimateuk/latest</link>
+         <description>
+
+UK GDP estimated to have fallen by 0.5% in December 202210 February 2023Monthly real gross domestic product (GDP) is estimated to have fallen by 0.5% in December 2022, following growth of 0.1% in November 2022.Looking at the broader picture, UK GDP remained flat in the three months to December 2022 compared with the three months to September 2022.Services fell by 0.8% in December 2022, after an increase of 0.2% in November 2022. The largest contribution to the fall came from education and human health activities, which fell by 2.6% and 2.8%, respectively.Production output grew by 0.3% in December 2022, after a growth of 0.1% in November 2022. Electricity, gas, steam and air conditioning supply was the largest contributor to the production sector’s growth.Construction saw no growth in December 2022, following a fall of 0.5% in November 2022.
+
+The Services sector was the main contributor to negative monthly GDP growth in December 2022
+Contributions to monthly GDP growth, December 2021 to December 2022, UK
+
+
+
+
+
+
+
+Source: Office for National Statistics – GDP monthly estimate
+
+Notes:
+Sum of component contributions may not sum to total growth because of rounding.
+
+Download this chart The Services sector was the main contributor to negative monthly GDP growth in December 2022
+Image
+
+.csv
+
+
+.xls
+
+
+
+Read our latest bulletin on UK monthly GDP
+🠕 Back to the top
+
+
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">32565916</guid>
+         <pubDate>Fri, 10 Feb 2023 09:17:03 +0000</pubDate>
       </item>
    </channel>
 </rss>
