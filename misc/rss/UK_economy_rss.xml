@@ -6,52 +6,7 @@
       <description>RSS feed capturing updates to the ONS UK Economy blog</description>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>python-feedgen</generator>
-      <lastBuildDate>Fri, 10 Feb 2023 09:17:03 +0000</lastBuildDate>
-      <item>
-         <title>Fifth of adults affected by rail strikes</title>
-         <link>https://www.ons.gov.uk/releases/publicopinionsandsocialtrendsgreatbritain11to22january2023</link>
-         <description>
-
-Fifth of adults affected by rail strikes27 January 2023Around one in five adults in Great Britain (19%) say their travel plans had been disrupted by rail strikes in recent weeks. That is according to survey data collected between 11 and 22 January 2023, which show a similar proportion (18%) said the same in the previous survey period covering Christmas and New Year. Data collected between 7 to 18 December 2022 also show that 31% of working adults with children in school said they would have to work fewer hours if schools closed because of strike action, while 28% said that they would not be able to work. However, 41% said their work would not be affected. In the latest survey period, more than 9 in 10 adults (93%) said the cost of living is an important issue facing the UK. 
-
-The cost of living is a primary concern for British adults 
-Proportion of all adults in Great Britain, by issue, 11 to 22 January 2023 
-
-
-
-
-
-
-
-Source: Office for National Statistics – Opinions and Lifestyle Survey
-
-Notes:
-
-Question: &quot;What do you think are important issues facing the UK today?&quot;
-Base: all adults.
-Respondents were able to choose more than one option.
-
-
-Download this chart The cost of living is a primary concern for British adults 
-Image
-
-.csv
-
-
-.xls
-
-
-However, that was closely followed by the NHS with 89% of adults saying it was an important issue, which was up from 81% among those asked a month earlier. Around three in four (76%) said the economy, 59% said climate change and the environment, while 45% reported industrial action as an important issue in the UK today. 
-
-Read our latest Public opinions and social trends, Great Britain bulletin
-🠕 Back to the top
-
-
-</description>
-         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
-         <guid isPermaLink="false">73343242</guid>
-         <pubDate>Fri, 10 Feb 2023 09:17:03 +0000</pubDate>
-      </item>
+      <lastBuildDate>Sat, 11 Feb 2023 09:15:05 +0000</lastBuildDate>
       <item>
          <title>One in seven worried about running out of food </title>
          <link>https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/theimpactofwinterpressuresondifferentpopulationgroupsingreatbritain/22novemberto18december2022</link>
@@ -89,7 +44,7 @@ Read our latest bulletin on the impact of winter pressures on adults in Great Br
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">80013284</guid>
-         <pubDate>Fri, 10 Feb 2023 09:17:03 +0000</pubDate>
+         <pubDate>Sat, 11 Feb 2023 09:15:05 +0000</pubDate>
       </item>
       <item>
          <title>Cost of living could be pushing up UK residents’ spending abroad</title>
@@ -105,7 +60,7 @@ Read our Overseas travel and tourism: July to September 2022 bulletin
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">55334177</guid>
-         <pubDate>Fri, 10 Feb 2023 09:17:03 +0000</pubDate>
+         <pubDate>Sat, 11 Feb 2023 09:15:05 +0000</pubDate>
       </item>
       <item>
          <title>Largest negative terms-of-trade effect since 1970s</title>
@@ -148,7 +103,7 @@ Read our article on The Purchasing Power of GDP, UK: 2022
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">51289695</guid>
-         <pubDate>Fri, 10 Feb 2023 09:17:03 +0000</pubDate>
+         <pubDate>Sat, 11 Feb 2023 09:15:05 +0000</pubDate>
       </item>
       <item>
          <title>Energy prices are main concern of one in five businesses</title>
@@ -169,7 +124,7 @@ Read our Economic activity and social change in the UK, real-time indicators: 9 
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">66316726</guid>
-         <pubDate>Fri, 10 Feb 2023 09:17:03 +0000</pubDate>
+         <pubDate>Sat, 11 Feb 2023 09:15:05 +0000</pubDate>
       </item>
       <item>
          <title>UK GDP estimated to have fallen by 0.5% in December 2022</title>
@@ -209,7 +164,85 @@ Read our latest bulletin on UK monthly GDP
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">32565916</guid>
-         <pubDate>Fri, 10 Feb 2023 09:17:03 +0000</pubDate>
+         <pubDate>Sat, 11 Feb 2023 09:15:05 +0000</pubDate>
+      </item>
+      <item>
+         <title>Fuel imports increase for the first time since August 2022 </title>
+         <link>https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/bulletins/uktrade/latest</link>
+         <description>
+
+Fuel imports increase for the first time since August 2022 10 February 2023Gas prices increased sharply contributing to a large increase in the value of gas imports from Norway in December 2022. When the effect of inflation is removed, fuel imports from non-EU countries increased by a much smaller amount in December 2022. The value of goods imported to the UK increased by £1.6 billion (2.9%) in December 2022. After removing the effect of inflation, imports of goods increased by £0.7 billion (1.5%). Imports of goods from EU countries increased by £1.0 billion (3.8%) and imports from non-EU countries rose by £0.5 billion (1.9%) in December 2022, in value terms. The value of goods exports decreased by £0.8 billion (2.3%) in December 2022, linked to a fall in exports to non-EU countries. After removing the effect of inflation, total exports of goods decreased by £0.1 billion (0.3%). The trade balance of exports and imports over the year for goods and services, excluding precious metals, widened by £85.3 billion to a deficit of £108.0 billion in 2022 when compared with 2021, driven by a 32.5% increase in import values. Imports of goods from both EU and non-EU countries increased in December 2022EU and non-EU goods imports and exports, excluding precious metals, current prices, December 2019 to December 2022
+
+
+Embed code
+
+Embed this interactive
+
+
+Copy
+
+
+
+
+
+Download the dataNotes: 
+
+Caution should be taken when interpreting these data as there is a discontinuity from January 2021 in EU trade following an HM Revenue and Customs data collection change. Our Impact of trade in goods data collection changes on UK trade statistics article, provides more detail.
+Staged customs controls allowed traders importing goods from the EU to delay customs declarations in 2021 by up to 175 days, and as a result some double counting may have occurred between January and June 2022. Read our blog for more detail. 
+Find out more about how we are producing consistent estimates for trade following the UK’s EU exit. 
+
+Read the main bulletin on UK trade 
+🠕 Back to the top
+
+
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">25264979</guid>
+         <pubDate>Sat, 11 Feb 2023 09:15:05 +0000</pubDate>
+      </item>
+      <item>
+         <title>Around 1 in 30 adults miss work because of industrial action </title>
+         <link>https://www.ons.gov.uk/releases/publicopinionsandsocialtrendsgreatbritain25januaryto5february2023</link>
+         <description>
+
+Around 1 in 30 adults miss work because of industrial action 10 February 2023Around 1 in 30 working adults reported that they missed work because of industrial action between 25 January and 5 February 2023. That is 3% of working adults across Britain, according to our latest Public Opinions and Social Trends Survey. That means 97% of respondents said they had not missed work as a result of industrial action. The survey period covers strike action by teachers, train drivers, civil servants and university staff, although the majority of responses came before the industrial action taken on 1 February. When asked about the important issues facing the UK today, 92% of adults cited the cost of living, which made it the most commonly reported issue. That was followed by the NHS (87%), the economy (77%), climate change and the environment (56%). There has been a slight increase in adults reporting the NHS as an important issue over the winter period, and a decrease in reporting climate change and the environment. This may be due to seasonal pressures and cold weather. 
+
+The cost of living remains the most pressing concern 
+Proportion of all adults in Great Britain, by issue, 26 October 2022 to 5 February 2023 
+
+
+
+
+
+
+
+Source: Office for National Statistics – Opinions and Lifestyle Survey (OPN)
+
+Notes:
+
+Question: &quot;What do you think are important issues facing the UK today?&quot;
+Respondents were able to choose more than one option.
+
+
+Download this chart The cost of living remains the most pressing concern 
+Image
+
+.csv
+
+
+.xls
+
+
+Around 9 in 10 adults (94%) reported their cost of living had increased compared with a year ago, while 69% reported an increase compared with one month ago. 
+
+Read our Public opinions and social trends, Great Britain: 25 January to 5 February 2023 bulletin 
+🠕 Back to the top
+
+
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">37345863</guid>
+         <pubDate>Sat, 11 Feb 2023 09:15:05 +0000</pubDate>
       </item>
    </channel>
 </rss>
