@@ -6,7 +6,7 @@
       <description>RSS feed capturing updates to the ONS UK Economy blog</description>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>python-feedgen</generator>
-      <lastBuildDate>Sun, 12 Feb 2023 09:15:13 +0000</lastBuildDate>
+      <lastBuildDate>Mon, 13 Feb 2023 09:17:30 +0000</lastBuildDate>
       <item>
          <title>One in seven worried about running out of food </title>
          <link>https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/theimpactofwinterpressuresondifferentpopulationgroupsingreatbritain/22novemberto18december2022</link>
@@ -44,7 +44,7 @@ Read our latest bulletin on the impact of winter pressures on adults in Great Br
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">80013284</guid>
-         <pubDate>Sun, 12 Feb 2023 09:15:13 +0000</pubDate>
+         <pubDate>Mon, 13 Feb 2023 09:17:30 +0000</pubDate>
       </item>
       <item>
          <title>Cost of living could be pushing up UK residents’ spending abroad</title>
@@ -60,7 +60,7 @@ Read our Overseas travel and tourism: July to September 2022 bulletin
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">55334177</guid>
-         <pubDate>Sun, 12 Feb 2023 09:15:13 +0000</pubDate>
+         <pubDate>Mon, 13 Feb 2023 09:17:30 +0000</pubDate>
       </item>
       <item>
          <title>Largest negative terms-of-trade effect since 1970s</title>
@@ -103,7 +103,7 @@ Read our article on The Purchasing Power of GDP, UK: 2022
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">51289695</guid>
-         <pubDate>Sun, 12 Feb 2023 09:15:13 +0000</pubDate>
+         <pubDate>Mon, 13 Feb 2023 09:17:30 +0000</pubDate>
       </item>
       <item>
          <title>Energy prices are main concern of one in five businesses</title>
@@ -124,7 +124,7 @@ Read our Economic activity and social change in the UK, real-time indicators: 9 
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">66316726</guid>
-         <pubDate>Sun, 12 Feb 2023 09:15:13 +0000</pubDate>
+         <pubDate>Mon, 13 Feb 2023 09:17:30 +0000</pubDate>
       </item>
       <item>
          <title>UK GDP estimated to have fallen by 0.5% in December 2022</title>
@@ -164,7 +164,7 @@ Read our latest bulletin on UK monthly GDP
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">32565916</guid>
-         <pubDate>Sun, 12 Feb 2023 09:15:13 +0000</pubDate>
+         <pubDate>Mon, 13 Feb 2023 09:17:30 +0000</pubDate>
       </item>
       <item>
          <title>Fuel imports increase for the first time since August 2022 </title>
@@ -198,7 +198,7 @@ Read the main bulletin on UK trade
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">25264979</guid>
-         <pubDate>Sun, 12 Feb 2023 09:15:13 +0000</pubDate>
+         <pubDate>Mon, 13 Feb 2023 09:17:30 +0000</pubDate>
       </item>
       <item>
          <title>Around 1 in 30 adults miss work because of industrial action </title>
@@ -242,7 +242,7 @@ Read our Public opinions and social trends, Great Britain: 25 January to 5 Febru
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">37345863</guid>
-         <pubDate>Sun, 12 Feb 2023 09:15:13 +0000</pubDate>
+         <pubDate>Mon, 13 Feb 2023 09:17:30 +0000</pubDate>
       </item>
    </channel>
 </rss>
