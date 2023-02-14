@@ -6,62 +6,7 @@
       <description>RSS feed capturing updates to the ONS UK Economy blog</description>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>python-feedgen</generator>
-      <lastBuildDate>Mon, 13 Feb 2023 09:17:30 +0000</lastBuildDate>
-      <item>
-         <title>One in seven worried about running out of food </title>
-         <link>https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/theimpactofwinterpressuresondifferentpopulationgroupsingreatbritain/22novemberto18december2022</link>
-         <description>
-
-One in seven worried about running out of food 30 January 2023Around one in seven adults (15%) in Great Britain had been somewhat or very worried that their food would run out before they had money to buy more in the past two weeks. This is according to our article on the impact of winter pressures on different population groups in Great Britain. This rose to one in four (25%) adults with dependent children, and 29% of adults living in the most deprived areas in England. Worry about running out of food was also more common among those of Asian (or Asian British) ethnicity (26%), those of “Other ethnic group” (46%), and those experiencing moderate to severe depressive symptoms (37%). 
-
-Adults with dependent children were more likely to report worry about running out of food 
-Proportion of adults across different groups who were very, or somewhat, worried food would run out before they had money to buy more in the past two weeks, Great Britain, 22 November to 18 December 2022 
-
-
-
-
-
-
-
-Source: Office for National Statistics – Opinions and Lifestyle Survey 
-
-
-Download this chart Adults with dependent children were more likely to report worry about running out of food 
-Image
-
-.csv
-
-
-.xls
-
-
-Around 1 in 20 people (5%) said their household had run out of food, and they could not afford to buy more, in the past two weeks. This rose to 8% among those with dependent children, and 13% of those living in the most deprived areas. 
-
-Read our latest bulletin on the impact of winter pressures on adults in Great Britain
-🠕 Back to the top
-
-
-</description>
-         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
-         <guid isPermaLink="false">80013284</guid>
-         <pubDate>Mon, 13 Feb 2023 09:17:30 +0000</pubDate>
-      </item>
-      <item>
-         <title>Cost of living could be pushing up UK residents’ spending abroad</title>
-         <link>https://www.ons.gov.uk/releases/overseastravelandtourismjulytoseptember2022</link>
-         <description>
-
-Cost of living could be pushing up UK residents’ spending abroad31 January 2023People are taking fewer trips abroad compared with before the coronavirus (COVID-19) pandemic, but the total amount spent overseas is almost as high.UK residents made 24.9 million visits abroad between July and September 2022, the latest estimates from our International Passenger Survey (IPS) show.That was around triple the 8.1 million visits during the same period of 2021, although the earlier figure excludes data on Eurotunnel travel because of pandemic-related restrictions on interviews.However, it was still 17% below the 30.0 million visits between July and September 2019, before the pandemic affected international travel.While the estimated number of visits abroad was still well below pre-pandemic levels, the amount spent was similar.UK residents spent £22.1 billion during visits abroad between July and September 2022, which was close to the £21.9 billion spent during the same period in 2019. This could be an indication of the increased cost of living globally.A similar pattern was seen with overseas residents’ visits to the UK. The 10.0 million visits made between July and September 2022 were down 16% from 11.9 million during the same period in 2019. Meanwhile, spending was similar for both periods, at £9.2 billion and £9.1 billion, respectively.
-
-Read our Overseas travel and tourism: July to September 2022 bulletin
-🠕 Back to the top
-
-
-</description>
-         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
-         <guid isPermaLink="false">55334177</guid>
-         <pubDate>Mon, 13 Feb 2023 09:17:30 +0000</pubDate>
-      </item>
+      <lastBuildDate>Tue, 14 Feb 2023 09:17:36 +0000</lastBuildDate>
       <item>
          <title>Largest negative terms-of-trade effect since 1970s</title>
          <link>https://www.ons.gov.uk/releases/thetermsoftradethepurchasingpowerofgdp</link>
@@ -103,7 +48,7 @@ Read our article on The Purchasing Power of GDP, UK: 2022
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">51289695</guid>
-         <pubDate>Mon, 13 Feb 2023 09:17:30 +0000</pubDate>
+         <pubDate>Tue, 14 Feb 2023 09:17:36 +0000</pubDate>
       </item>
       <item>
          <title>Energy prices are main concern of one in five businesses</title>
@@ -124,7 +69,7 @@ Read our Economic activity and social change in the UK, real-time indicators: 9 
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">66316726</guid>
-         <pubDate>Mon, 13 Feb 2023 09:17:30 +0000</pubDate>
+         <pubDate>Tue, 14 Feb 2023 09:17:36 +0000</pubDate>
       </item>
       <item>
          <title>UK GDP estimated to have fallen by 0.5% in December 2022</title>
@@ -164,7 +109,7 @@ Read our latest bulletin on UK monthly GDP
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">32565916</guid>
-         <pubDate>Mon, 13 Feb 2023 09:17:30 +0000</pubDate>
+         <pubDate>Tue, 14 Feb 2023 09:17:36 +0000</pubDate>
       </item>
       <item>
          <title>Fuel imports increase for the first time since August 2022 </title>
@@ -198,7 +143,7 @@ Read the main bulletin on UK trade
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">25264979</guid>
-         <pubDate>Mon, 13 Feb 2023 09:17:30 +0000</pubDate>
+         <pubDate>Tue, 14 Feb 2023 09:17:36 +0000</pubDate>
       </item>
       <item>
          <title>Around 1 in 30 adults miss work because of industrial action </title>
@@ -242,7 +187,98 @@ Read our Public opinions and social trends, Great Britain: 25 January to 5 Febru
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">37345863</guid>
-         <pubDate>Mon, 13 Feb 2023 09:17:30 +0000</pubDate>
+         <pubDate>Tue, 14 Feb 2023 09:17:36 +0000</pubDate>
+      </item>
+      <item>
+         <title>Young people least likely to work from home</title>
+         <link>https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/characteristicsofadultsexperiencingenergyandfoodinsecuritygreatbritain/22novemberto18december2022</link>
+         <description>
+
+Young people least likely to work from home13 February 2023Younger workers continue to be least likely to only work from home (6%). Those aged 16 to 24 years had the highest rate of those travelling to work at 79%, while those aged 34 to 44 years had the lowest rate at 48%, in the period September 2022 to January 2023.The group aged 16 to 24 years also had the highest rate of workers who did not have the ability to work from home, with just under two in three (65%) reporting this. Those aged 25 to 34 years, 35 to 44 years, and 45 to 54 years reported higher rates of home or hybrid working compared with the group aged 16 to 24 years. 16- to 24-year-olds most likely to travel to work without the option to work from homeProportion of working adults in Great Britain, September 2022 to January 2023
+
+
+Embed code
+
+Embed this interactive
+
+
+Copy
+
+
+
+
+
+Download the dataThe levels of people working from home peaked during the coronavirus (COVID-19) lockdown at 49%. Throughout 2022 the percentage of adults who worked from home varied between 25% and 40%, without a clear upward or downward trend. Overall, 44% of workers reported home or hybrid working and 56% reported solely travelling to work in the last seven days.In the most recent period (25 January to 5 February 2023), 40% of working adults reported having worked from home at some point in the past seven days. A higher rate of workers travelling to work (46%) reported not being able to work from home compared with those who travelled to work but could work from home (10%). 
+
+Read our article Characteristics of Homeworkers, Great Britain: September 2022 to January 2023
+🠕 Back to the top
+
+Adults in rented homes more likely to experience energy and food insecurity13 February 2023Adults in Great Britain who live in rented housing have higher odds of experiencing some form of energy and food insecurity than those who own their home outright. Those living in rented housing were more than three times as likely to experience some form of food insecurity than those who own their home outright, according to analysis of the ONS’s Winter Survey data, collected between 22 November and 18 December 2022. “Food insecurity ” is when a household does not have enough food to lead a healthy life. We classed adults as experiencing some form of food insecurity if they reported one or more of the following: 
+
+being worried that their food would run out before they could afford to buy more
+running out of food before they could afford more 
+thinking they or their household could not afford to eat a balanced diet
+Adults in rented housing were also around three times more likely to experience some form of energy insecurity than those who own their homes outright.Adults were considered to be experiencing energy insecurity if they reported one or more of the following:
+
+being behind on gas or electricity bill payments
+finding it very difficult to afford their energy bills 
+never or hardly ever being able to keep warm in their home 
+Both food and energy insecurity were more likely among adults with an income below £40,000 and £30,000 per year, respectively, when compared with those earning £40,000 or more.
+
+Read our full bulletin on the characteristics of adults experiencing energy and food insecurity in Great Britain
+🠕 Back to the top
+
+
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">60619742</guid>
+         <pubDate>Tue, 14 Feb 2023 09:17:36 +0000</pubDate>
+      </item>
+      <item>
+         <title>One in five online job adverts in December 2022 were in London</title>
+         <link>https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/labourdemandvolumesbyprofessionandlocalauthorityuk/january2017todecember2022</link>
+         <description>
+
+One in five online job adverts in December 2022 were in London13 February 2023One in five jobs advertised online in December 2022 were in London, according to new experimental analysis of Textkernel data. The number of adverts in London was equal to more than 4% of the city’s working age population, higher than in any other UK region. Outside London, six local authorities (Manchester, Birmingham, Bristol, Leeds, Glasgow and Liverpool) had the greatest share of online job adverts in December 2022; they also had the highest increase in their share of total adverts over the previous year. In the UK, the volume of online job adverts fell 56% between December 2021 and December 2022, although they remained above pre-coronavirus (COVID-19) pandemic levels, after sharp declines and subsequent increases in adverts during 2020 and 2021. The share of postings advertising healthcare jobs increased between 2021 and 2022, largely from an increase in demand for care assistants, nursing and specialised nurses. The share of adverts for jobs in sales and trading fell the most, followed by those in communication, marketing and public relations. You can select a profession in the following drop-down menu to see how demand for that job type has changed over time in a given area. We have used summary profession categories, with professions that fall into the “other” category not included. Explore demand for different professions over time by local areaShare of online job adverts of a given profession within a given local authority, Local authorities of the UK, January 2017 to December 2022
+
+
+Embed code
+
+Embed this interactive
+
+
+Copy
+
+
+
+
+
+Download the data for online job adverts by local authority (XLSX, 125KB)
+
+Read our full bulletin on labour demand volumes by profession and local authority
+🠕 Back to the top
+
+
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">90951183</guid>
+         <pubDate>Tue, 14 Feb 2023 09:17:36 +0000</pubDate>
+      </item>
+      <item>
+         <title>Labour disputes cost more than 800,000 working days in December 2022</title>
+         <link>https://www.ons.gov.uk/releases/uklabourmarketfebruary2023</link>
+         <description>
+
+Labour disputes cost more than 800,000 working days in December 202214 February 2023More working days were lost to labour disputes across the UK in December 2022 than in any other month since November 2011. A total of 843,000 working days were lost over the month, which was significantly more than the 461,000 recorded for November 2022. Our labour market data also show that the rate of annual regular (excluding bonuses) pay growth among employees was 6.7% between October and December 2022, which was the strongest growth rate seen outside of the coronavirus (COVID-19) pandemic. Annual regular pay grew by 7.3% in the private sector and 4.2% in the public sector. However, regular pay fell in real terms by 2.5% over the period after adjusting for inflation (the rising cost of goods and services). The economic inactivity rate decreased by 0.3 percentage points in the three months to December 2022, to 21.4%. Estimates between July to September 2022 and October to December 2022 show that there was a record-high net flow out of economic inactivity, driven by people moving from economic inactivity to employment. The data also show that the number of vacancies fell by 76,000 in the three months to January 2023, to 1,134,000. That was the seventh consecutive quarterly fall since the three months to July 2022, with respondents to our survey continuing to cite economic pressures as a factor in holding back on recruitment. 
+
+Read our Labour market overview, UK: February 2023 bulletin
+🠕 Back to the top
+
+
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">83606184</guid>
+         <pubDate>Tue, 14 Feb 2023 09:17:36 +0000</pubDate>
       </item>
    </channel>
 </rss>
