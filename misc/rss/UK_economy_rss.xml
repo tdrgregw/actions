@@ -6,7 +6,7 @@
       <description>RSS feed capturing updates to the ONS UK Economy blog</description>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>python-feedgen</generator>
-      <lastBuildDate>Tue, 14 Feb 2023 09:17:36 +0000</lastBuildDate>
+      <lastBuildDate>Wed, 15 Feb 2023 09:17:18 +0000</lastBuildDate>
       <item>
          <title>Largest negative terms-of-trade effect since 1970s</title>
          <link>https://www.ons.gov.uk/releases/thetermsoftradethepurchasingpowerofgdp</link>
@@ -48,7 +48,7 @@ Read our article on The Purchasing Power of GDP, UK: 2022
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">51289695</guid>
-         <pubDate>Tue, 14 Feb 2023 09:17:36 +0000</pubDate>
+         <pubDate>Wed, 15 Feb 2023 09:17:18 +0000</pubDate>
       </item>
       <item>
          <title>Energy prices are main concern of one in five businesses</title>
@@ -69,7 +69,7 @@ Read our Economic activity and social change in the UK, real-time indicators: 9 
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">66316726</guid>
-         <pubDate>Tue, 14 Feb 2023 09:17:36 +0000</pubDate>
+         <pubDate>Wed, 15 Feb 2023 09:17:18 +0000</pubDate>
       </item>
       <item>
          <title>UK GDP estimated to have fallen by 0.5% in December 2022</title>
@@ -109,7 +109,7 @@ Read our latest bulletin on UK monthly GDP
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">32565916</guid>
-         <pubDate>Tue, 14 Feb 2023 09:17:36 +0000</pubDate>
+         <pubDate>Wed, 15 Feb 2023 09:17:18 +0000</pubDate>
       </item>
       <item>
          <title>Fuel imports increase for the first time since August 2022 </title>
@@ -143,7 +143,7 @@ Read the main bulletin on UK trade
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">25264979</guid>
-         <pubDate>Tue, 14 Feb 2023 09:17:36 +0000</pubDate>
+         <pubDate>Wed, 15 Feb 2023 09:17:18 +0000</pubDate>
       </item>
       <item>
          <title>Around 1 in 30 adults miss work because of industrial action </title>
@@ -187,7 +187,7 @@ Read our Public opinions and social trends, Great Britain: 25 January to 5 Febru
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">37345863</guid>
-         <pubDate>Tue, 14 Feb 2023 09:17:36 +0000</pubDate>
+         <pubDate>Wed, 15 Feb 2023 09:17:18 +0000</pubDate>
       </item>
       <item>
          <title>Young people least likely to work from home</title>
@@ -232,7 +232,7 @@ Read our full bulletin on the characteristics of adults experiencing energy and 
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">60619742</guid>
-         <pubDate>Tue, 14 Feb 2023 09:17:36 +0000</pubDate>
+         <pubDate>Wed, 15 Feb 2023 09:17:18 +0000</pubDate>
       </item>
       <item>
          <title>One in five online job adverts in December 2022 were in London</title>
@@ -262,7 +262,7 @@ Read our full bulletin on labour demand volumes by profession and local authorit
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">90951183</guid>
-         <pubDate>Tue, 14 Feb 2023 09:17:36 +0000</pubDate>
+         <pubDate>Wed, 15 Feb 2023 09:17:18 +0000</pubDate>
       </item>
       <item>
          <title>Labour disputes cost more than 800,000 working days in December 2022</title>
@@ -278,7 +278,7 @@ Read our Labour market overview, UK: February 2023 bulletin
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">83606184</guid>
-         <pubDate>Tue, 14 Feb 2023 09:17:36 +0000</pubDate>
+         <pubDate>Wed, 15 Feb 2023 09:17:18 +0000</pubDate>
       </item>
    </channel>
 </rss>
