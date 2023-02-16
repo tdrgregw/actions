@@ -48,7 +48,7 @@ def extract_blog():
                 except:
                     lk = None
 
-                ds = ART.text
+                ds = ART.get_text(separator=' ', strip=True)
 
                 gd = 'guid{0}'.format(tt)
                 gd = str(int(hashlib.sha256(gd.encode('utf-8')).hexdigest(), 16) % 10**8 + 1)
