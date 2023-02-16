@@ -6,53 +6,10 @@
       <description>RSS feed capturing updates to the ONS UK Economy blog</description>
       <docs>http://www.rssboard.org/rss-specification</docs>
       <generator>python-feedgen</generator>
-      <lastBuildDate>Wed, 15 Feb 2023 09:17:18 +0000</lastBuildDate>
-      <item>
-         <title>Largest negative terms-of-trade effect since 1970s</title>
-         <link>https://www.ons.gov.uk/releases/thetermsoftradethepurchasingpowerofgdp</link>
-         <description>
-
-Largest negative terms-of-trade effect since 1970s8 February 2023The impact of higher energy and commodity prices on the UK economy has lowered our terms of trade. This has reduced the UK’s purchasing power — it can import fewer goods and services given the same level of exports. The consequences of this terms-of-trade effect is an unavoidable hit to UK real gross domestic income (GDI). The size and persistence of this effect will depend on how import and export prices evolve over the coming years, and how much of a net energy importer the UK continues to be. Real gross domestic income contracted by 0.2% in the year to Quarter 3 (July to Sept) 2022. Many European countries have experienced a negative terms of trade effect as net energy importers. Italy, Germany and Japan are the G7 countries that have experienced a larger negative terms-of-trade effect than the UK over the last year. However, Norway saw the largest positive purchasing power effect among the OECD countries, while Canada and the Unites States are the only G7 countries to have had a positive terms-of-trade effect over the last year. This reflects how these countries are net energy exporters. 
-
-The UK is currently experiencing its largest negative terms-of-trade effect since the mid-1970s 
-Percentage point difference in 4-quarter growth rates of UK real GDI and real GDP, Quarter 1 1970 to Quarter 3 2022 
-
-
-
-
-
-
-
-Source: Office for National Statistics
-
-Notes:
-
-We look at the 4-quarter change in real GDP and real GDI as a proxy of the underlying trend.
-Positive values indicate a positive welfare effect, where the change in real GDI is higher than the change in real GDP. Negative values indicate a negative welfare effect, where the change in real GDI is lower than the change in real GDP. 
-
-
-Download this chart The UK is currently experiencing its largest negative terms-of-trade effect since the mid-1970s 
-Image
-
-.csv
-
-
-.xls
-
-
-
-Read our article on The Purchasing Power of GDP, UK: 2022
-🠕 Back to the top
-
-
-</description>
-         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
-         <guid isPermaLink="false">51289695</guid>
-         <pubDate>Wed, 15 Feb 2023 09:17:18 +0000</pubDate>
-      </item>
+      <lastBuildDate>Thu, 16 Feb 2023 09:17:17 +0000</lastBuildDate>
       <item>
          <title>Energy prices are main concern of one in five businesses</title>
-         <link>https://www.ons.gov.uk/releases/economicactivityandsocialchangeintheukrealtimeindicators9february2023</link>
+         <link>https://www.ons.gov.uk/releases/businessinsightsandimpactontheukeconomy9february2023</link>
          <description>
 
 Energy prices are main concern of one in five businesses9 February 2023Nearly one in five (19%) businesses reported energy prices were their main concern for February 2023, when asked between 23 January and 5 February 2023. This was followed by inflation of goods and services prices (16%) and falling demand for goods and services (13%). In late January 2023, nearly two in five (37%) businesses had taken some form of action to reduce their energy costs in the last three months, with 23% of those businesses reporting they had switched electrical equipment off or on standby more than usual when not in use. Of the 45% of businesses that were not planning to reduce their energy costs in the next three months, 60% said their business’s energy efficiency had already been optimised. 
@@ -60,16 +17,11 @@ Energy prices are main concern of one in five businesses9 February 2023Nearly on
 Read our full Business insights and impact on the UK economy bulletin
 🠕 Back to the top
 
-Spending up in pubs and restaurants in early February9 February 2023Debit card spending in pubs and restaurants and on fast food rose above levels recorded before the coronavirus (COVID-19) pandemic in the week to 5 February 2023.That was the first increase above the pre-pandemic baseline (the average for February 2020) since early December 2022, according to data collected by financial technology company Revolut.Debit card spending also rose in all categories monitored by the company when compared with the equivalent week of 2022. Spending was 47 percentage points higher on retail, and 39 percentage points greater for vehicle fuel.It is important to note that the figures are not adjusted for the potential effects of inflation (the rising price of goods and services) on the value of transactions.A separate indicator of debit and credit card spending, known as the CHAPS monthly index, shows that work-related spending (including on road fuel) in January 2023 was 15 percentage points higher than a year earlier.That was the largest increase of any category and was followed by “social” and “staple” spending, which both increased by 11 percentage points.Figures from job search engine Adzuna show that the number of online job adverts on 3 February 2023 was 21% lower than the number seen a year earlier.
-
-Read our Economic activity and social change in the UK, real-time indicators: 9 February 2023 bulletin
-🠕 Back to the top
-
 
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">66316726</guid>
-         <pubDate>Wed, 15 Feb 2023 09:17:18 +0000</pubDate>
+         <pubDate>Thu, 16 Feb 2023 09:17:17 +0000</pubDate>
       </item>
       <item>
          <title>UK GDP estimated to have fallen by 0.5% in December 2022</title>
@@ -109,7 +61,7 @@ Read our latest bulletin on UK monthly GDP
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">32565916</guid>
-         <pubDate>Wed, 15 Feb 2023 09:17:18 +0000</pubDate>
+         <pubDate>Thu, 16 Feb 2023 09:17:17 +0000</pubDate>
       </item>
       <item>
          <title>Fuel imports increase for the first time since August 2022 </title>
@@ -143,7 +95,7 @@ Read the main bulletin on UK trade
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">25264979</guid>
-         <pubDate>Wed, 15 Feb 2023 09:17:18 +0000</pubDate>
+         <pubDate>Thu, 16 Feb 2023 09:17:17 +0000</pubDate>
       </item>
       <item>
          <title>Around 1 in 30 adults miss work because of industrial action </title>
@@ -187,7 +139,7 @@ Read our Public opinions and social trends, Great Britain: 25 January to 5 Febru
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">37345863</guid>
-         <pubDate>Wed, 15 Feb 2023 09:17:18 +0000</pubDate>
+         <pubDate>Thu, 16 Feb 2023 09:17:17 +0000</pubDate>
       </item>
       <item>
          <title>Young people least likely to work from home</title>
@@ -232,7 +184,7 @@ Read our full bulletin on the characteristics of adults experiencing energy and 
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">60619742</guid>
-         <pubDate>Wed, 15 Feb 2023 09:17:18 +0000</pubDate>
+         <pubDate>Thu, 16 Feb 2023 09:17:17 +0000</pubDate>
       </item>
       <item>
          <title>One in five online job adverts in December 2022 were in London</title>
@@ -262,7 +214,7 @@ Read our full bulletin on labour demand volumes by profession and local authorit
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">90951183</guid>
-         <pubDate>Wed, 15 Feb 2023 09:17:18 +0000</pubDate>
+         <pubDate>Thu, 16 Feb 2023 09:17:17 +0000</pubDate>
       </item>
       <item>
          <title>Labour disputes cost more than 800,000 working days in December 2022</title>
@@ -278,7 +230,89 @@ Read our Labour market overview, UK: February 2023 bulletin
 </description>
          <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
          <guid isPermaLink="false">83606184</guid>
-         <pubDate>Wed, 15 Feb 2023 09:17:18 +0000</pubDate>
+         <pubDate>Thu, 16 Feb 2023 09:17:17 +0000</pubDate>
+      </item>
+      <item>
+         <title>Annual inflation continues to ease</title>
+         <link>https://www.ons.gov.uk/releases/consumerpriceinflationukjanuary2023</link>
+         <description>
+
+Annual inflation continues to ease15 February 2022Prices of goods and services bought by consumers rose by 8.8% in the year to January 2023, down from 9.2% in the previous month, as the annual inflation rate continues to ease. This was according to the Consumer Prices Index including owner occupiers’ housing costs (CPIH). This measure has been falling from a peak of 9.6% in October 2022, which was the highest rate in over 40 years, according to indicative modelled estimates. The easing of inflation has been driven by lower transport prices, particularly passenger transport. 
+
+Transport inflation rate eases in January 2023 
+CPIH, transport and motor fuels annual inflation rates, UK, January 2013 to January 2023 
+
+
+
+
+
+
+
+Source: Office for National Statistics – Consumer price inflation
+
+
+Download this chart Transport inflation rate eases in January 2023 
+Image
+
+.csv
+
+
+.xls
+
+
+Transport prices rose by 3.4% in the year to January 2023. This is down from a peak of 15.2% in June 2022, and is the lowest rate since February 2021. Passenger transport prices rose 7.6%, and fuel prices by 7.7%, in the year to January 2023, down from 18.3% and 11.5%, respectively, in the previous month. 
+
+Read our latest Consumer Prices Index bulletin
+🠕 Back to the top
+
+
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">71619340</guid>
+         <pubDate>Thu, 16 Feb 2023 09:17:17 +0000</pubDate>
+      </item>
+      <item>
+         <title>House price growth slows as private rents rise at record rates</title>
+         <link>https://www.ons.gov.uk/releases/indexofprivatehousingrentalpricesukjanuary2023</link>
+         <description>
+
+House price growth slows as private rents rise at record rates15 February 2023Growth in UK house prices slowed again in the year to December 2022. During that time, average house prices in the UK increased by 9.8%, down from 10.6% the previous month. The average price of a house was £294,000, which is £26,000 higher than the same month a year ago. House prices grew the least in Scotland at a rate of 5.7%, which was lower than all regions of England and substantially lower than the rates seen across England (10.3%) and Wales (10.3%). 
+
+East Midlands house prices increased more than any other region 
+All dwellings annual house price rates of change, by English region, year to December 2022 
+
+
+
+
+
+
+
+Source: HM Land Registry and Office for National Statistics – UK House Price Index
+
+Notes:
+
+Not seasonally adjusted
+
+
+Download this chart East Midlands house prices increased more than any other region 
+Image
+
+.csv
+
+
+.xls
+
+
+Private rental prices continued to rise at record-setting paces in all countries in the 12 months to January 2023. The average price tenants paid for private rentals in the UK increased 4.4% during that time, up from 4.2% in the previous month. Rental prices in Scotland increased by 4.5%, up from 4.4% in the previous month and the highest rate since records began in 2012. England and Wales also saw record growth in private rental prices, at 4.3% and 3.9%, respectively. Among the English regions, the East Midlands recorded the greatest increase in private rental prices at 5.0%. Meanwhile, rental price inflation in London has nearly caught up with the UK average after trailing all regions since 2021. During 2022, London’s private rental price annual growth increased more rapidly than any other English region. 
+
+Read our latest bulletins on the UK House Price Index and the Index of Private Housing Rental Prices
+🠕 Back to the top
+
+
+</description>
+         <author>Gregory.Weegenaar@tdrcapital.com (Gregory Weegenaar)</author>
+         <guid isPermaLink="false">27069374</guid>
+         <pubDate>Thu, 16 Feb 2023 09:17:17 +0000</pubDate>
       </item>
    </channel>
 </rss>
